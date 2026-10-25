@@ -25,6 +25,17 @@ MIRROR is a proposed research and documentation framework for observing, investi
 
 These are research categories, not completed literature reviews or claims of comprehensive coverage.
 
+## Research documents
+
+- [Annotated master bibliography](bibliography.md) — curated starter sources, use notes, limitations, and known gaps.
+- [Research register](research-register.md) — 30 proposed questions with priority, status, and minimum useful outputs.
+- [Claim status vocabulary](claim-status.md) — editorial labels and evidence rules.
+- [Source protocol](source-protocol.md) — source evaluation, citation, and research integrity.
+- [Computational reproducibility protocol](reproducibility-protocol.md) — provenance, repeatability, and bounded claims.
+- [Research ethics and community knowledge](ethics-and-community-knowledge.md) — proposed safeguards for people, communities, and sensitive knowledge.
+- [Research-note template](templates/research-note-template.md) — reusable investigation record.
+- [Source-annotation template](templates/source-annotation-template.md) — reusable source record.
+
 ## Epistemic rules
 
 - Cite the source that supports each material factual claim.
@@ -34,10 +45,6 @@ These are research categories, not completed literature reviews or claims of com
 - Mark missing, inaccessible, contradictory, or unverified evidence explicitly.
 - Do not infer causation from correlation without an appropriate design and supporting evidence.
 - Preserve dissenting interpretations when they are material and evidence-based.
-
-## Claim status vocabulary
-
-Use the schema in [claim-status.md](claim-status.md). Status labels describe the claim and its current support, not the personal worth or general credibility of its author.
 
 ## Research lifecycle
 
@@ -60,17 +67,22 @@ IKAI is the reflective-compute research domain. WARENA supports inspectable, mai
 
 ## Maturity labels
 
-Use the project vocabulary: `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORICAL`, `SUPERSEDED`, and `UNKNOWN`. State what was actually implemented, observed, tested, and independently reviewed.
+Use the project vocabulary: LIVE, PROTOTYPE, RESEARCH, CONCEPT, HISTORICAL, SUPERSEDED, and UNKNOWN. State what was actually implemented, observed, tested, and independently reviewed.
 
-## First milestones
+## Initial milestones
 
-- [ ] Approve the research charter and claim-status vocabulary.
-- [ ] Build an annotated bibliography with source quality notes.
-- [ ] Add one worked research note with explicit claim/source links.
-- [ ] Define a reproducibility checklist for computational research.
+- [x] Create the initial research charter and domain taxonomy.
+- [x] Add a starter bibliography with source notes and explicit gaps.
+- [x] Establish a 30-question research register and first-study sequence.
+- [x] Define claim labels, source protocol, reproducibility protocol, and ethics safeguards.
+- [ ] Verify each source and claim in the context of the first selected research question.
+- [ ] Complete a worked research note with claim-to-source links and reviewer feedback.
+- [ ] Run and document one bounded computational reproducibility experiment.
 - [ ] Review privacy, licensing, cultural permissions, and publication risks before releasing datasets.
 - [ ] Link implementation claims to commits, tests, and reproducible demonstrations.
 
+Checked items mean the documentation files were created on this branch; they do not mean the research itself is complete or independently validated.
+
 ## Contributing
 
-Use [research-note-template.md](templates/research-note-template.md) for new investigations and [source-annotation-template.md](templates/source-annotation-template.md) for source records. Keep unsupported claims labelled as unresolved rather than filling gaps with assumptions.
+Use the research-note template for new investigations and the source-annotation template for source records. Keep unsupported claims labelled as unresolved rather than filling gaps with assumptions.
