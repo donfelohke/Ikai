@@ -29,6 +29,7 @@ These are research categories, not completed literature reviews or claims of com
 
 - [Annotated master bibliography](bibliography.md) — curated starter sources, use notes, limitations, and known gaps.
 - [Research register](research-register.md) — 30 proposed questions with priority, status, and minimum useful outputs.
+- [Study MIR-001: Reproducibility and replicability](studies/MIR-001-reproducibility-terminology.md) — first claim-traceable study, awaiting independent review.
 - [Claim status vocabulary](claim-status.md) — editorial labels and evidence rules.
 - [Source protocol](source-protocol.md) — source evaluation, citation, and research integrity.
 - [Computational reproducibility protocol](reproducibility-protocol.md) — provenance, repeatability, and bounded claims.
