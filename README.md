@@ -1,6 +1,9 @@
 # IKAI — Reflexive Compute
 
-IKAI is a research and development domain exploring reflective interfaces, embodied interaction, and local computation. Its governing metaphor is **a mirror, not a judge**: a system may help a person inspect an interaction or creative process, but must not turn the person into a score, diagnosis, identity label, or covert profile.
+**Author:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
+**Metaphor:** a mirror, not a judge · **Not a released product**
+
+IKAI is a research and development domain exploring reflective interfaces, embodied interaction, and local computation. A system may help a person inspect an interaction or creative process, but must not turn the person into a score, diagnosis, identity label, or covert profile.
 
 ## Core boundaries
 
@@ -34,7 +37,8 @@ Use status labels `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORICAL`, `SUP
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — beauty craft and transaction boundary.
 - [Public site](https://github.com/donfelohke/donfelohke.github.io) — public presentation.
 
-**Transaction boundary: ONLY NAKEBUSEN TRANSACTS.**
+**Transaction boundary: ONLY NAKEBUSEN TRANSACTS.**  
+Commercial enquiries: [WhatsApp 0719 635 415](https://wa.me/254719635415).
 
 ## Documents
 
