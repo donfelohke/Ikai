@@ -29,7 +29,7 @@ Priority is a sequencing decision, not a measure of scientific importance.
 
 | ID | Domain | Research question | Priority | Status | Minimum useful output |
 |---|---|---|---|---|---|
-| MIR-001 | Research integrity | How should claims, sources, uncertainty, corrections, and disagreements be represented consistently? | P0 | SCOPING | Claim schema and worked example |
+| MIR-001 | Research integrity | How should claims, sources, uncertainty, corrections, and disagreements be represented consistently? | P0 | AWAITING_REVIEW | [Worked claim-traceable note](studies/MIR-001-reproducibility-terminology.md) |
 | MIR-002 | Reproducibility | What information is required to rerun a computational result independently? | P0 | PROPOSED | Checklist and experiment record |
 | MIR-003 | Source evaluation | How can primary evidence be distinguished from commentary, synthesis, and AI-generated summaries? | P0 | PROPOSED | Source-evaluation rubric |
 | MIR-004 | Data governance | How can data be reusable without exposing sensitive or restricted information? | P0 | PROPOSED | Access and permissions policy |
