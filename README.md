@@ -5,6 +5,11 @@
 
 IKAI is a research and development domain exploring reflective interfaces, embodied interaction, and local computation. A system may help a person inspect an interaction or creative process, but must not turn the person into a score, diagnosis, identity label, or covert profile.
 
+**Public-facing description:** *IKAI — Reflective Compute.* A research project exploring local, human-directed reflection through interfaces, movement and creative computation. The design goal is to help people inspect their own process—not to judge, classify or profile them.
+
+IKAI remains **research / work in progress**, not a released product. Do not advertise availability, validated outcomes, sensor integrations or evaluation accuracy unless the specific implementation and evidence have been reviewed and recorded.
+
+
 ## Core boundaries
 
 - No face identification or biometric identity matching.
