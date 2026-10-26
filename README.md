@@ -11,7 +11,7 @@ IKAI is a research and development domain exploring reflective interfaces, embod
 - No diagnosis or claims of clinical assessment.
 - No person scoring, ranking, or hidden profiling.
 - No covert surveillance.
-- No cloud profile by default; document any external processing before it is proposed.
+- No cloud profile by default; document external processing before it is proposed.
 - Collect the minimum data needed for a clearly stated purpose.
 - Prefer local processing, short retention, participant control, and inspectable data flows.
 
@@ -23,27 +23,25 @@ IKAI is a research and development domain exploring reflective interfaces, embod
 - Local sensors and transparent data flows.
 - Human-readable records and participant-directed reflection.
 
-## Research maturity
+## Knowledge base
 
-**Status: RESEARCH / INITIAL DOCUMENTATION BASELINE.** No claim is made that a working mirror-compute system, sensor integration, or validated evaluation method currently exists.
+Start with [the research knowledge-base index](docs/knowledge-base-index.md), then read the [privacy model](docs/privacy-model.md) and [research agenda](docs/research-agenda.md).
 
-Use status labels `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORICAL`, `SUPERSEDED`, and `UNKNOWN`. Document what is implemented, observed, and independently tested.
+**Status: RESEARCH / INITIAL DOCUMENTATION BASELINE.** No claim is made that a working mirror-compute system, sensor integration, or validated evaluation method currently exists. Use status labels `LIVE`, `PROTOTYPE`, `RESEARCH`, `CONCEPT`, `HISTORICAL`, `SUPERSEDED`, and `UNKNOWN`; document what is implemented, observed, and independently tested.
 
 ## Ecosystem
 
 - [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — canonical terms, governance, and decision provenance.
 - [WARENA](https://github.com/donfelohke/WARENA) — local-first infrastructure and reproducible computing.
 - [GENJE](https://github.com/donfelohke/Genje) — creative technology and embodied practice.
-- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — beauty craft and transaction boundary.
+- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — customer-facing services and business operations.
 - [Public site](https://github.com/donfelohke/donfelohke.github.io) — public presentation.
-
-**Transaction boundary: ONLY NAKEBUSEN TRANSACTS.**  
-Commercial enquiries: [WhatsApp 0719 635 415](https://wa.me/254719635415).
 
 ## Documents
 
 - `GOVERNANCE.md` — research boundaries and stewardship.
 - `CONTRIBUTING.md` — experiment and review expectations.
 - `SECURITY.md` — responsible reporting.
+- `docs/knowledge-base-index.md` — research workflow and evidence requirements.
 - `docs/privacy-model.md` — data lifecycle and participant controls.
 - `docs/research-agenda.md` — research questions and evidence expectations.
