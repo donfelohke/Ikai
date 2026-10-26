@@ -45,3 +45,13 @@ Start with [the research knowledge-base index](docs/knowledge-base-index.md), th
 - `docs/knowledge-base-index.md` — research workflow and evidence requirements.
 - `docs/privacy-model.md` — data lifecycle and participant controls.
 - `docs/research-agenda.md` — research questions and evidence expectations.
+
+---
+
+## Canonical architecture update — 2026-10-26
+
+The current project name is **IKAI Mirror / IKAI REFLECTIVE (IR-01)**. It remains a research and development project, not a released product. Its core principles are **Human Remains Author; Mirror ≠ Judge; Local First**. Do not introduce face identification, beauty scores, person ranking, hidden profiling, covert surveillance, forced cloud dependency or autonomous authorization as default functions.
+
+Current conceptual modes: MIRROR, AWARE, REFLECT, PRACTICE, GENJE and SYSTEM. These names are not evidence that corresponding features have been implemented. WARENA is the technical identity of NAKEBUSEN DIGITAL and may provide infrastructure; **ONLY NAKEBUSEN TRANSACTS**. GENJE ZA WARENA is the wider cultural identity/motivating idea, not a product feature.
+
+See the [canonical architecture and decision register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
