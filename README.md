@@ -50,8 +50,6 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 | [Genje](https://github.com/donfelohke/Genje) | Creative / embodied practice |
 | [Public site](https://donfelohke.github.io/) | Audience view |
 
-```text
-FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
-```
+Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
 Canon: [canonical architecture 2026-10-26](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
