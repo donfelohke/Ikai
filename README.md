@@ -53,3 +53,8 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
 Canon: [canonical architecture 2026-10-26](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
+
+
+## Portfolio alignment — 2026-10
+
+IKAI remains **research / work in progress**, not a released product. Its mirror-not-judge boundary excludes scoring, diagnosis, face identification, covert profiling and cloud-dependent personal surveillance. Prefer local-first, inspectable computation; publish implementation claims only when supported by working evidence. Commercial enquiries belong to NAKEBUSEN.
