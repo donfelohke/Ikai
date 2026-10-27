@@ -6,11 +6,9 @@
 
 IKAI explores reflective interfaces, embodied interaction and local computation. A system may help someone inspect an interaction or creative process; it must not turn a person into a score, diagnosis, identity label or covert profile.
 
-**Public-facing description:** *IKAI — Reflective Compute.* A research project exploring local, human-directed reflection through interfaces, movement and creative computation. The design goal is to help people inspect their own process—not to judge, classify or profile them.
+**Last README alignment:** 27 October 2026.
 
-IKAI remains **research / work in progress**, not a released product. Do not advertise availability, validated outcomes, sensor integrations or evaluation accuracy unless the specific implementation and evidence have been reviewed and recorded.
-
-Commercial services and bookings run only through **[NAKEBUSEN](https://donfelohke.github.io/)**.
+Commercial services run only through **[NAKEBUSEN](https://donfelohke.github.io/)**.
 
 ---
 
@@ -21,7 +19,7 @@ Commercial services and bookings run only through **[NAKEBUSEN](https://donfeloh
 - No person scoring, ranking or hidden profiling  
 - No covert surveillance  
 - No default cloud profile; document external processing before proposing it  
-- Minimum data for a stated purpose · prefer local processing · short retention · participant control  
+- Minimum data · prefer local processing · short retention · participant control  
 
 ---
 
@@ -29,9 +27,9 @@ Commercial services and bookings run only through **[NAKEBUSEN](https://donfeloh
 
 Mirror-based interaction · embodied action · movement / Laban-related practice · local sensors · human-readable records.
 
-Named modes (MIRROR, AWARE, REFLECT, PRACTICE, GENJE, SYSTEM) are **labels for research direction**, not evidence of implemented features.
+Named modes (MIRROR, AWARE, REFLECT, PRACTICE, GENJE, SYSTEM) are **research direction labels**, not evidence of implemented features.
 
-Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTORICAL` · `SUPERSEDED` · `UNKNOWN`.
+Maturity: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTORICAL` · `SUPERSEDED` · `UNKNOWN`.
 
 ---
 
@@ -54,11 +52,4 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 | [Genje](https://github.com/donfelohke/Genje) | Creative / embodied practice |
 | [Public site](https://donfelohke.github.io/) | Audience view |
 
-Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
-
-Canon: [canonical architecture 2026-10-26](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
-
-
-## Portfolio alignment — 2026-10
-
-IKAI remains **research / work in progress**, not a released product. Its mirror-not-judge boundary excludes scoring, diagnosis, face identification, covert profiling and cloud-dependent personal surveillance. Prefer local-first, inspectable computation; publish implementation claims only when supported by working evidence. Commercial enquiries belong to NAKEBUSEN.
+[Canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
