@@ -6,6 +6,10 @@
 
 IKAI explores reflective interfaces, embodied interaction and local computation. A system may help someone inspect an interaction or creative process; it must not turn a person into a score, diagnosis, identity label or covert profile.
 
+**Public-facing description:** *IKAI — Reflective Compute.* A research project exploring local, human-directed reflection through interfaces, movement and creative computation. The design goal is to help people inspect their own process—not to judge, classify or profile them.
+
+IKAI remains **research / work in progress**, not a released product. Do not advertise availability, validated outcomes, sensor integrations or evaluation accuracy unless the specific implementation and evidence have been reviewed and recorded.
+
 Commercial services and bookings run only through **[NAKEBUSEN](https://donfelohke.github.io/)**.
 
 ---
