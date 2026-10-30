@@ -2,6 +2,10 @@
 
 **Status: RESEARCH / DOCUMENTATION BASELINE.** IKAI is reflective-compute research, not a released product. This index does not claim that a working mirror, sensor integration, or evaluation method exists.
 
+## Current portfolio boundary
+
+- [Portfolio Boundary (2026-10-31)](PORTFOLIO-BOUNDARY-2026-10-31.md) — IKAI's separation from commercial products and the GENJE launch campaign.
+
 ## Reading path
 
 1. Read the [research agenda](research-agenda.md) before proposing an experiment.
