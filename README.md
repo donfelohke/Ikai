@@ -14,6 +14,10 @@ Commercial services and bookings run only through **[NAKEBUSEN](https://donfeloh
 
 ---
 
+## Current portfolio boundary
+
+IKAI remains independent reflective-compute research, not a product or GENJE campaign feature. See [Portfolio Boundary (2026-10-31)](docs/PORTFOLIO-BOUNDARY-2026-10-31.md).
+
 ## Non-negotiable boundaries
 
 - No face identification or biometric identity matching  
