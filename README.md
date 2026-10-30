@@ -2,7 +2,7 @@
 
 **Author:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
 **Metaphor:** a mirror, not a judge  
-**Status: RESEARCH — not a released product**
+**Status:** RESEARCH — not a released product
 
 IKAI explores reflective interfaces, embodied interaction and local computation. A system may help someone inspect an interaction or creative process; it must not turn a person into a score, diagnosis, identity label or covert profile.
 
@@ -46,7 +46,7 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 
 ## Ecosystem
 
-| Repo | Role |
+| Repository | Role |
 |------|------|
 | [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Terms · evidence · decisions |
 | [WARENA](https://github.com/donfelohke/WARENA) | Possible infrastructure host domain |
@@ -56,8 +56,7 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 
 Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
 
-Canon: [canonical architecture 2026-10-26](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
-
+---
 
 ## Portfolio alignment — 2026-10
 
