@@ -65,3 +65,9 @@ Cross-domain relationships are documented in the [canonical architecture](https:
 ## Portfolio alignment — 2026-10
 
 IKAI remains **research / work in progress**, not a released product. Its mirror-not-judge boundary excludes scoring, diagnosis, face identification, covert profiling and cloud-dependent personal surveillance. Prefer local-first, inspectable computation; publish implementation claims only when supported by working evidence. Commercial enquiries belong to NAKEBUSEN.
+
+---
+
+## Before Africa — existence and personhood
+
+Research note on African philosophical traditions, personhood, relational ethics and knowledge, with IKAI's mirror-not-judge principle kept distinct from historical claims. [Read the research note](docs/BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md).
