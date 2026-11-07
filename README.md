@@ -71,3 +71,7 @@ IKAI remains **research / work in progress**, not a released product. Its mirror
 ## Before Africa — existence and personhood
 
 Research note on African philosophical traditions, personhood, relational ethics and knowledge, with IKAI's mirror-not-judge principle kept distinct from historical claims. [Read the research note](docs/BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md).
+
+## Workstation platform boundary — 2026-11
+
+IKAI may use a validated local-first workstation environment but does not own or claim the desktop platform. WARENA's current research evaluates Guix/RDE, Niri + Noctalia v5, Sway, dwl-guile and Nix/NixOS as a comparator. See the [cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md). IKAI remains research / WIP; no desktop deployment or sensor integration is implied.
