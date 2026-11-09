@@ -37,3 +37,8 @@
 For each experiment record the question, status/date, source commit, hardware/software, data type and source, consent basis where relevant, processing location, procedure, success/failure criteria, observed results, alternative explanations, limitations, privacy review, reproduction steps, and deletion confirmation.
 
 A demonstration is not validation. A policy is not an implementation audit. Treat hypotheses and interpretation as such, and distinguish them from observations.
+
+ 
+## Reflective-computing foundations
+
+- [Reflective Computing research alignment](REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) — arXiv preprint review, seven-dimension design critique, movement notation relationship, privacy boundaries and proposed evaluation questions.
