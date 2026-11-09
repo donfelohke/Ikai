@@ -26,3 +26,6 @@ This document does not add or imply a software licence for IKAI. The repository 
 For sensor pipelines, firmware, interaction models, interfaces and research prototypes, distinguish public documentation, lawful observations, participant-derived data, third-party implementation and original code. Do not use confidential vendor source, restricted datasets or participant material as AI rewrite inputs. Do not turn restricted research artefacts into paraphrased specifications and then call the implementation independent.
 
 Record the permitted evidence set, data authority/consent, source versions, specification authorship and reviewer. If the provenance of a model, library, dataset or generated code is unclear, isolate it from experiments and releases pending review. Preserve the distinction between participant testimony, measured observations, interpretation and model-generated output.
+
+
+For IKAI, **code laundering** includes disguising the origin, licence or access restrictions of copied research code, firmware, datasets, sensor pipelines or vendor implementations through AI rewriting or paraphrased specifications. A clean-room claim requires an independent, documented evidence path.
