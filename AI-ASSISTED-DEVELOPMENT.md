@@ -18,14 +18,14 @@ IKAI applies the canonical policy to reflective-compute research, interface expe
 
 ## Licensing status
 
-This document does not add or imply a software licence for IKAI. The repository currently has no root LICENSE file in the audited default-branch tree. Licensing must be decided separately after confirming ownership, contributions and intended scope. Do not assume GPL terms apply until a licence is deliberately added.
+This document does not change the repository software licence. IKAI has a root **GNU General Public License, Version 3** (`LICENSE` on the default branch).
 
+That root GPL-3.0 grant covers original software and documentation released under it. It does **not** automatically establish rights over third-party datasets, participant-derived material, firmware, recordings, sensor traces, vendor implementations or other separately restricted content. Those items require individual rights, consent and provenance assessment before use, redistribution or relicensing.
 
 ## Research-code provenance and clean-room integrity
 
 For sensor pipelines, firmware, interaction models, interfaces and research prototypes, distinguish public documentation, lawful observations, participant-derived data, third-party implementation and original code. Do not use confidential vendor source, restricted datasets or participant material as AI rewrite inputs. Do not turn restricted research artefacts into paraphrased specifications and then call the implementation independent.
 
 Record the permitted evidence set, data authority/consent, source versions, specification authorship and reviewer. If the provenance of a model, library, dataset or generated code is unclear, isolate it from experiments and releases pending review. Preserve the distinction between participant testimony, measured observations, interpretation and model-generated output.
-
 
 For IKAI, **code laundering** includes disguising the origin, licence or access restrictions of copied research code, firmware, datasets, sensor pipelines or vendor implementations through AI rewriting or paraphrased specifications. A clean-room claim requires an independent, documented evidence path.
