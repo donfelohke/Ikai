@@ -75,3 +75,8 @@ Research note on African philosophical traditions, personhood, relational ethics
 ## Workstation platform boundary — 2026-11
 
 IKAI may use a validated local-first workstation environment but does not own or claim the desktop platform. WARENA's current research evaluates Guix/RDE, Niri + Noctalia v5, Sway, dwl-guile and Nix/NixOS as a comparator. See the [cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md). IKAI remains research / WIP; no desktop deployment or sensor integration is implied.
+
+ 
+## Reflective-computing research alignment
+
+The [Reflective Computing research alignment](docs/REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) reviews Md Haseen Akhtar's arXiv:2610.35696v1 preprint as a design-critique source. Its seven dimensions are mapped to IKAI's participant-directed, mirror-not-judge boundary. The paper is a research preprint; the mapping is a proposal, not a validated feature or claim of implementation.
