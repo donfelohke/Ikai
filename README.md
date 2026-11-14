@@ -42,6 +42,7 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 ## Knowledge base
 
 - [Research knowledge-base index](docs/knowledge-base-index.md)  
+- [IKAI MIRROR+ spatial-computing research (2026-11-14)](docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md)  
 - [Privacy model](docs/privacy-model.md)  
 - [Research agenda](docs/research-agenda.md)  
 - [GOVERNANCE.md](GOVERNANCE.md) · [CONTRIBUTING.md](CONTRIBUTING.md) · [SECURITY.md](SECURITY.md)
