@@ -2,6 +2,10 @@
 
 **Status: RESEARCH / DOCUMENTATION BASELINE.** IKAI is reflective-compute research, not a released product. This index does not claim that a working mirror, sensor integration, or evaluation method exists.
 
+## IKAI MIRROR+ spatial research
+
+- [Spatial-computing research (2026-11-14)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) — reflective surface, spatial registration, XR/runtime, historical MAVERIK/DEVA research, participant authority and research gates. Research only; no hardware or runtime is approved.
+
 ## Current portfolio boundary
 
 - [Portfolio Boundary (2026-10-31)](PORTFOLIO-BOUNDARY-2026-10-31.md) — IKAI's separation from commercial products and the GENJE launch campaign.
