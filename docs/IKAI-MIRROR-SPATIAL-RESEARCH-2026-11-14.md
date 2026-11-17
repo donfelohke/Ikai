@@ -99,3 +99,8 @@ For each candidate or experiment record:
 - **NAKEBUSEN** remains the sole commercial interface; this research does not create a product or booking channel.
 
 See the [cross-project research landscape](https://github.com/donfelohke/feloh-corpus/blob/main/research/ikai-mirror-spatial-computing-landscape-2026-11-14.md).
+
+
+## Current technology-policy precedence — 2026-11-17
+
+This document must be read subject to the current [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) and [FELOH Corpus technology policy](https://github.com/donfelohke/feloh-corpus/blob/main/docs/technology-policy-2026-11-17.md). JavaScript is prohibited as a language, runtime, framework or dependency; web technologies are excluded as WARENA/IKAI application and runtime architecture. Prefer native, libre, local-first and user-controlled interfaces. Candidate tools listed in this document do not become approved dependencies merely by appearing here. Historical descriptions remain historical; apply this policy to current and future decisions.
