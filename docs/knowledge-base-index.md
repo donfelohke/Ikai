@@ -4,7 +4,8 @@
 
 ## IKAI MIRROR+ spatial research
 
-- [Spatial-computing research (2026-11-14)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) — reflective surface, spatial registration, XR/runtime, historical MAVERIK/DEVA research, participant authority and research gates. Research only; no hardware or runtime is approved.
+- [Spatial-computing research (2026-11-14)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) — reflective surface, spatial registration, XR/runtime, historical MAVERIK/DEVA research, participant authority and research gates.
+- [Reflective-computing research alignment (2026-11-18)](REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) — seven-dimension design critique, methodological limits, participant-directed reflection and movement-notation boundaries.
 
 ## Current portfolio boundary
 
@@ -41,7 +42,6 @@
 For each experiment record the question, status/date, source commit, hardware/software, data type and source, consent basis where relevant, processing location, procedure, success/failure criteria, observed results, alternative explanations, limitations, privacy review, reproduction steps, and deletion confirmation.
 
 A demonstration is not validation. A policy is not an implementation audit. Treat hypotheses and interpretation as such, and distinguish them from observations.
-
 
 ## Canonical identity and technology policy — 2026-11-17
 
