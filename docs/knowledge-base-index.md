@@ -41,3 +41,10 @@
 For each experiment record the question, status/date, source commit, hardware/software, data type and source, consent basis where relevant, processing location, procedure, success/failure criteria, observed results, alternative explanations, limitations, privacy review, reproduction steps, and deletion confirmation.
 
 A demonstration is not validation. A policy is not an implementation audit. Treat hypotheses and interpretation as such, and distinguish them from observations.
+
+
+## Canonical identity and technology policy — 2026-11-17
+
+- [IKAI Name Note](IKAI-NAME-NOTE.md) — IKAI is a Turkana female name meaning “home.”
+- [Identity and Native Technology Boundary](IDENTITY-AND-NATIVE-TECHNOLOGY-BOUNDARY-2026-11-17.md) — JavaScript prohibition, web-technology exclusion and native/local-first research direction.
+- [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) — governing infrastructure policy.
