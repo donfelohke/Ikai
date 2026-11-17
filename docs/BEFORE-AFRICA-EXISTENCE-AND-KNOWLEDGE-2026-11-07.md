@@ -52,3 +52,22 @@ Link population-genetic and archaeological findings (Takarkori, southern African
 - Nature 2025 Takarkori; Nature 2026 southern African genomes (see corpus brief)
 
 **Maturity:** RESEARCH. Not a product claim.
+
+
+## Research resources and source discipline — 11 November 2026
+
+**Canonical annotated references and materials register:** https://github.com/donfelohke/feloh-corpus/blob/main/docs/research-briefs/before-africa-source-catalogue-2026-11.md
+
+Use the corpus source catalogue for primary archaeological and ancient-DNA research, specialist language references, African historiography, oral-history methods and research-ethics resources. The corpus master dossier remains the canonical framework; this IKAI note owns only the reflective-compute and knowledge-governance interpretation.
+
+For any dialogue between historical traditions and IKAI:
+- Attach concepts to a named language, community, period, text or documented oral context.
+- Preserve original-language terms and identify translation choices where possible.
+- Do not infer a historical worldview from an isolated proverb or quotation.
+- Do not reduce a tradition, personhood concept or ancestry model to a behavioural score, personality metric, biometric profile or computational ontology.
+- Treat genomic evidence as population history, not as a measure of intelligence, personhood, moral worth or cultural authenticity.
+- Preserve refusal, privacy, custodianship and the right not to have knowledge captured.
+
+**IKAI boundary:** mirror, not judge. This remains a design principle informed by contemporary ethical reflection, not a claim that historical traditions anticipated or validated a digital system.
+
+**Maturity:** RESEARCH. No product or deployment claim.
