@@ -83,3 +83,8 @@ IKAI may use a validated local-first workstation environment but does not own or
 The name's meaning, **home**, is distinct from IKAI's functional descriptor and technical implementation. IKAI's WARENA-governed infrastructure follows a native-first, libre-first, local-first policy. **JavaScript is prohibited** as a language, runtime, framework or dependency; web technologies are excluded as application/runtime architecture. Native Guile/Scheme, GNUstep/Objective-C, native graphics and sensing interfaces, and OpenXR (not WebXR) are research candidates subject to evidence and explicit selection.
 
 See [IKAI identity and native technology boundary (2026-11-17)](docs/IDENTITY-AND-NATIVE-TECHNOLOGY-BOUNDARY-2026-11-17.md) and the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
+
+
+## Reflective-computing research alignment — 2026-11-18
+
+The [Reflective Computing research alignment](docs/REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) reviews the supplied arXiv preprint as a design-critique source. Its seven dimensions are mapped to IKAI's participant-directed, mirror-not-judge boundary. The mapping is a proposal, not a validated feature or claim of implementation.
