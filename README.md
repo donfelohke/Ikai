@@ -1,12 +1,13 @@
 # IKAI — Reflective Compute
 
 **Author:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
+**Name:** IKAI — a Turkana female name meaning **“home.”**  
 **Metaphor:** a mirror, not a judge  
 **Status:** RESEARCH — not a released product
 
-IKAI explores reflective interfaces, embodied interaction and local computation. A system may help someone inspect an interaction or creative process; it must not turn a person into a score, diagnosis, identity label or covert profile.
+IKAI explores reflective interfaces, embodied interaction and local computation. The meaning of home informs its research interest in belonging, reflection, embodiment, memory, continuity, privacy and a personally controlled environment. A system may help someone inspect an interaction or creative process; it must not turn a person into a score, diagnosis, identity label or covert profile.
 
-**Public-facing description:** *IKAI — Reflective Compute.* A research project exploring local, human-directed reflection through interfaces, movement and creative computation. The design goal is to help people inspect their own process—not to judge, classify or profile them.
+**Public-facing description:** *IKAI — Reflective Compute.* A research project exploring local, human-directed reflection through interfaces, movement and creative computation. “Reflective Compute” is a functional descriptor, not a translation of the name; “a mirror, not a judge” is a guiding metaphor.
 
 IKAI remains **research / work in progress**, not a released product. Do not advertise availability, validated outcomes, sensor integrations or evaluation accuracy unless the specific implementation and evidence have been reviewed and recorded.
 
@@ -77,11 +78,8 @@ Research note on African philosophical traditions, personhood, relational ethics
 
 IKAI may use a validated local-first workstation environment but does not own or claim the desktop platform. WARENA's current research evaluates Guix/RDE, Niri + Noctalia v5, Sway, dwl-guile and Nix/NixOS as a comparator. See the [cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md). IKAI remains research / WIP; no desktop deployment or sensor integration is implied.
 
-
 ## Name and native technology boundary — 2026-11-17
 
-**IKAI is a Turkana female name meaning “home.”** This is the primary identity meaning, not an acronym or a technical translation. “Reflective Compute” is a functional descriptor; “a mirror, not a judge” is a guiding metaphor.
-
-IKAI's WARENA-governed infrastructure follows a native-first, libre-first, local-first policy. **JavaScript is prohibited** as a language, runtime, framework or dependency; web technologies are excluded as application/runtime architecture. Native Guile/Scheme, GNUstep/Objective-C, native graphics and sensing interfaces, and OpenXR (not WebXR) are research candidates subject to evidence and explicit selection.
+The name's meaning, **home**, is distinct from IKAI's functional descriptor and technical implementation. IKAI's WARENA-governed infrastructure follows a native-first, libre-first, local-first policy. **JavaScript is prohibited** as a language, runtime, framework or dependency; web technologies are excluded as application/runtime architecture. Native Guile/Scheme, GNUstep/Objective-C, native graphics and sensing interfaces, and OpenXR (not WebXR) are research candidates subject to evidence and explicit selection.
 
 See [IKAI identity and native technology boundary (2026-11-17)](docs/IDENTITY-AND-NATIVE-TECHNOLOGY-BOUNDARY-2026-11-17.md) and the [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md).
