@@ -2,8 +2,9 @@
 
 **Status: RESEARCH / DOCUMENTATION BASELINE.** IKAI is reflective-compute research, not a released product. This index does not claim that a working mirror, sensor integration, or evaluation method exists.
 
-## IKAI MIRROR+ spatial research
+## IKAI Mirror research track
 
+- [Mirror Technology & Scholarly Research (2026-11-18)](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) — five engineering approaches, optical trade-offs, hardware stack, essential scholarly reading (smart-mirror, AR mirrors, embodiment/movement, data protection), research modules, proposed M1 prototype, and architectural position (Mirror / Glass / Space).
 - [Spatial-computing research (2026-11-14)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) — reflective surface, spatial registration, XR/runtime, historical MAVERIK/DEVA research, participant authority and research gates.
 - [Reflective-computing research alignment (2026-11-18)](REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) — seven-dimension design critique, methodological limits, participant-directed reflection and movement-notation boundaries.
 
@@ -29,6 +30,7 @@
 | Local computation | What data stays on-device or local network? | Data-flow inspection and external-traffic tests |
 | Sensor experiments | What is collected and why? | Inventory, access model, retention and deletion tests |
 | Participant-directed records | Can participants inspect/export/delete their data? | Demonstrated workflows and failure cases |
+| Optical mirror systems | How does reflection quality interact with display and sensing? | Optical measurements, lighting control, overlay registration |
 
 ## Non-negotiable boundaries
 
@@ -36,6 +38,7 @@
 - Do not infer health, emotion, personality, identity, or capability from movement/sensor data.
 - External processing requires an explicit purpose and reviewed data-flow, retention, and access model.
 - Do not describe a prototype as privacy-preserving until relevant data flows and controls have been tested.
+- For beauty/loc-care applications, optical reflection remains the primary visual reference; digital content must not compromise natural appearance assessment.
 
 ## Experiment evidence record
 
