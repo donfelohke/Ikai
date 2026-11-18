@@ -4,6 +4,8 @@
 
 ## IKAI Mirror research track
 
+- [Mirror M1 Engineering Validation Specification (2026-11-18)](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) — proposed measurable optical, colour/illumination, display/thermal, static-overlay, offline, reliability, privacy and optional-sensing tests; stage gates and evidence requirements. Proposed thresholds are provisional; no implementation or procurement is claimed.
+
 - [Mirror Technology & Scholarly Research (2026-11-18)](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) — five engineering approaches, optical trade-offs, hardware stack, essential scholarly reading (smart-mirror, AR mirrors, embodiment/movement, data protection), research modules, proposed M1 prototype, and architectural position (Mirror / Glass / Space).
 - [Voice, Smart Glasses & Distributed Reflective Computing (2026-11-18)](IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — both voice-only and visual AR wearables; hybrid intelligence; first-class display; contracts, hardware qualification, Scheme integration, privacy threat model and staged MVP.
 
