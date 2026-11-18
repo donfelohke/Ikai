@@ -43,7 +43,9 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 ## Knowledge base
 
 - [Research knowledge-base index](docs/knowledge-base-index.md)  
+- [IKAI Mirror — Technology & Scholarly Research (2026-11-18)](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md)  
 - [IKAI MIRROR+ spatial-computing research (2026-11-14)](docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md)  
+- [Reflective-computing research alignment (2026-11-18)](docs/REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md)  
 - [Privacy model](docs/privacy-model.md)  
 - [Research agenda](docs/research-agenda.md)  
 - [GOVERNANCE.md](GOVERNANCE.md) · [CONTRIBUTING.md](CONTRIBUTING.md) · [SECURITY.md](SECURITY.md)
@@ -88,3 +90,7 @@ See [IKAI identity and native technology boundary (2026-11-17)](docs/IDENTITY-AN
 ## Reflective-computing research alignment — 2026-11-18
 
 The [Reflective Computing research alignment](docs/REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) reviews the supplied arXiv preprint as a design-critique source. Its seven dimensions are mapped to IKAI's participant-directed, mirror-not-judge boundary. The mapping is a proposal, not a validated feature or claim of implementation.
+
+## IKAI Mirror technology track — 2026-11-18
+
+The [Mirror Technology & Scholarly Research](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) note establishes the mirror as a dedicated research track: five engineering approaches, optical trade-offs, recommended hardware stack, essential literature (smart-mirror, AR mirrors, embodiment/movement, data protection), six research modules, proposed M1 stationary prototype, and the complementary Mirror / Glass / Space architecture. No implementation or product claim is made.
