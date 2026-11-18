@@ -76,7 +76,7 @@ Research note on African philosophical traditions, personhood, relational ethics
 
 ## Workstation platform boundary — 2026-11
 
-IKAI may use a validated local-first workstation environment but does not own or claim the desktop platform. WARENA's current research evaluates Guix/RDE, Niri + Noctalia v5, Sway, dwl-guile and Nix/NixOS as a comparator. See the [cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md). IKAI remains research / WIP; no desktop deployment or sensor integration is implied.
+IKAI may use a validated local-first workstation environment but does not own or claim the desktop platform. WARENA's current desktop research is X11-first: X.Org baseline; XLibre as a separate compatibility experiment; Gershwin and Guile-WM/WM-NG as intended session tracks; Sway as comparison/recovery baseline; dwl-guile/Wayland as secondary and experimental. Guix + RDE remains the preferred systems/configuration research foundation. See the [WARENA desktop architecture](https://github.com/donfelohke/WARENA/blob/main/docs/DESKTOP-ARCHITECTURE.md) and [technology constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md). IKAI remains research / WIP; no desktop deployment or sensor integration is implied.
 
 ## Name and native technology boundary — 2026-11-17
 
