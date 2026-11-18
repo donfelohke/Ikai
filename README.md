@@ -96,3 +96,7 @@ The [Reflective Computing research alignment](docs/REFLECTIVE-COMPUTING-RESEARCH
 ## IKAI Mirror technology track — 2026-11-18
 
 The [Mirror Technology & Scholarly Research](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) note establishes the mirror as a dedicated research track: five engineering approaches, optical trade-offs, recommended hardware stack, essential literature (smart-mirror, AR mirrors, embodiment/movement, data protection), six research modules, proposed M1 stationary prototype, and the complementary Mirror / Glass / Space architecture. No implementation or product claim is made.
+
+## Industrial architecture comparison
+
+- [NVIDIA XR AI Architecture Comparative Study (2026-11-18)](docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — four-plane architecture, DeviceIOHub, agent/model/tool boundaries, process lifecycle, CloudXR/OpenXR distinction, IKAI mapping and privacy qualification. Reference only; no NVIDIA dependency or deployment selected.
