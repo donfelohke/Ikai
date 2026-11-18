@@ -44,6 +44,8 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 
 - [Research knowledge-base index](docs/knowledge-base-index.md)  
 - [IKAI Mirror — Technology & Scholarly Research (2026-11-18)](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md)  
+- [Voice, Smart Glasses & Distributed Reflective Computing (2026-11-18)](docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — voice-only and visual AR wearables, hybrid intelligence, first-class display, component contracts, hardware qualification, Guile integration, threat model and staged MVP.  
+  
 - [IKAI MIRROR+ spatial-computing research (2026-11-14)](docs/IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md)  
 - [Reflective-computing research alignment (2026-11-18)](docs/REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md)  
 - [Privacy model](docs/privacy-model.md)  
