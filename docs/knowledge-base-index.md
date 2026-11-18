@@ -5,6 +5,8 @@
 ## IKAI Mirror research track
 
 - [Mirror Technology & Scholarly Research (2026-11-18)](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) — five engineering approaches, optical trade-offs, hardware stack, essential scholarly reading (smart-mirror, AR mirrors, embodiment/movement, data protection), research modules, proposed M1 prototype, and architectural position (Mirror / Glass / Space).
+- [Voice, Smart Glasses & Distributed Reflective Computing (2026-11-18)](IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — both voice-only and visual AR wearables; hybrid intelligence; first-class display; contracts, hardware qualification, Scheme integration, privacy threat model and staged MVP.
+
 - [Spatial-computing research (2026-11-14)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) — reflective surface, spatial registration, XR/runtime, historical MAVERIK/DEVA research, participant authority and research gates.
 - [Reflective-computing research alignment (2026-11-18)](REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) — seven-dimension design critique, methodological limits, participant-directed reflection and movement-notation boundaries.
 
