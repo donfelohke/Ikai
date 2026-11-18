@@ -53,3 +53,7 @@ A demonstration is not validation. A policy is not an implementation audit. Trea
 - [IKAI Name Note](IKAI-NAME-NOTE.md) — IKAI is a Turkana female name meaning “home.”
 - [Identity and Native Technology Boundary](IDENTITY-AND-NATIVE-TECHNOLOGY-BOUNDARY-2026-11-17.md) — JavaScript prohibition, web-technology exclusion and native/local-first research direction.
 - [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) — governing infrastructure policy.
+
+## Industrial architecture references
+
+- [NVIDIA XR AI Architecture Comparative Study (2026-11-18)](NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — multimodal XR agent architecture, participant-scoped media, typed model interfaces, process lifecycle and IKAI/WARENA adaptation boundaries.
