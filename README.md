@@ -96,3 +96,8 @@ The [Reflective Computing research alignment](docs/REFLECTIVE-COMPUTING-RESEARCH
 ## IKAI Mirror technology track — 2026-11-18
 
 The [Mirror Technology & Scholarly Research](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) note establishes the mirror as a dedicated research track: five engineering approaches, optical trade-offs, recommended hardware stack, essential literature (smart-mirror, AR mirrors, embodiment/movement, data protection), six research modules, proposed M1 stationary prototype, and the complementary Mirror / Glass / Space architecture. No implementation or product claim is made.
+
+
+## IKAI Mirror M1 validation — 2026-11-18
+
+The [M1 Engineering Validation Specification](docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) translates the mirror research into proposed test cases and stage gates for optical fidelity, display readability and thermal behaviour, static overlay registration, offline operation, recovery and privacy. Tracking remains optional. Numerical targets are provisional and require review before formal qualification. This is a research plan, not evidence of an implemented prototype.
