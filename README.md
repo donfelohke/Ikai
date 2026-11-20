@@ -120,3 +120,8 @@ IKAI's “mirror, not a judge” principle may be placed in dialogue with philos
 ## WARENA agentic operating environment boundary — 2026-11-20
 
 WARENA is researching a human-governed agentic operating environment using GNU/Linux as the practical baseline and GNU Hurd as an experimental OS substrate. [Read the WARENA architecture research](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md). IKAI may investigate participant-directed reflection and native human-facing interfaces, but it does not own agent authority, capability issuance, OS enforcement or audit policy. IKAI remains “a mirror, not a judge”: no person scoring, diagnosis, covert profiling or automatic judgement. No agentic integration or feature is implied by this cross-project reference.
+
+
+## Commercial and market boundary — 2026-11-20
+
+IKAI is **RESEARCH**, not a released product, service catalogue or checkout. No IKAI TAM, revenue forecast or product-market-fit claim is asserted. Any future market sizing must begin with a validated use case, named buyer, safe tested prototype, willingness-to-pay evidence and a paid pilot. The [NAKEBUSEN TAM, MVP & Sales Blueprint](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) governs current commercial sequencing; **ONLY NAKEBUSEN TRANSACTS**. IKAI's privacy and participant-control boundaries remain non-negotiable.
