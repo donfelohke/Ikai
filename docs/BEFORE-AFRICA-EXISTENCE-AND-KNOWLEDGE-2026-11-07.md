@@ -80,3 +80,12 @@ Henry Odera Oruka's Sage Philosophy Project is a significant Kenyan case for exa
 This is a contemporary design correspondence only. Oruka's project was a philosophical research programme, not a precursor implementation of reflective computing. See the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) for primary-source direction, scholarly critiques and full methodological safeguards.
 
 **Maturity:** RESEARCH. No IKAI feature, participant evaluation or interview archive is claimed.
+
+
+## Philosophic sagacity and the ethics of reflection — 20 November 2026
+
+Henry Odera Oruka's Sage Philosophy Project is a significant Kenyan case for examining individual reasoning, oral dialogue, attribution and critical engagement with inherited beliefs. The distinction between folk sage and philosophic sage is useful for research, but should not become a person-ranking system or a digital classification. IKAI may draw a limited methodological lesson: preserve context, make interpretation inspectable, allow disagreement, keep participants in control and respect refusal. It must not score, diagnose or label a participant as wise, philosophical or otherwise.
+
+This is a contemporary design correspondence only. Oruka's project was a philosophical research programme, not a precursor implementation of reflective computing. See the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) for primary-source direction, scholarly critiques and full methodological safeguards.
+
+**Maturity:** RESEARCH. No IKAI feature, participant evaluation or interview archive is claimed.
