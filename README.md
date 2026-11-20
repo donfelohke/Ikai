@@ -1,4 +1,4 @@
-# IKAI — Reflective Compute
+# IKAI — MIRROR · Reflective Compute
 
 **Author:** Feloh Warena · [@donfelohke](https://github.com/donfelohke)  
 **Name:** IKAI — a Turkana female name meaning **“home.”**  
@@ -15,9 +15,9 @@ Commercial services and bookings run only through **[NAKEBUSEN](https://donfeloh
 
 ---
 
-## Current portfolio boundary
+## Current constitutional boundary — 2026-11-20
 
-IKAI remains independent reflective-compute research, not a product or GENJE campaign feature. See [Portfolio Boundary (2026-10-31)](docs/PORTFOLIO-BOUNDARY-2026-10-31.md).
+IKAI is the **MIRROR** domain in the four-domain F3L0H architecture: NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION, WARENA / CAPABILITY. F3L0H is the overarching human authorship identity, not a fifth domain. IKAI remains research / work in progress, not a released product or checkout surface. **ONLY NAKEBUSEN TRANSACTS.** See the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md).
 
 ## Non-negotiable boundaries
 
@@ -64,7 +64,7 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 | [Genje](https://github.com/donfelohke/Genje) | Creative / embodied practice |
 | [Public site](https://donfelohke.github.io/) | Audience view |
 
-Cross-domain relationships are documented in the [canonical architecture](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
+Cross-domain relationships are governed by the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md).
 
 ---
 
