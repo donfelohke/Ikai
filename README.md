@@ -116,3 +116,7 @@ IKAI's “mirror, not a judge” principle may be placed in dialogue with philos
 ## Sage Philosophy and reflective-computing boundary — 2026-11-20
 
 IKAI's “mirror, not a judge” principle may be placed in dialogue with philosophic inquiry through context, interpretive humility, participant agency and openness to disagreement. This is a contemporary ethical/design correspondence, not a claim that Oruka anticipated reflective computing or that IKAI performs Sage Philosophy interviews. The historical scholarship and source record belong to the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md). IKAI remains RESEARCH / WIP; no feature or implementation is implied.
+
+## WARENA agentic operating environment boundary — 2026-11-20
+
+WARENA is researching a human-governed agentic operating environment using GNU/Linux as the practical baseline and GNU Hurd as an experimental OS substrate. [Read the WARENA architecture research](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md). IKAI may investigate participant-directed reflection and native human-facing interfaces, but it does not own agent authority, capability issuance, OS enforcement or audit policy. IKAI remains “a mirror, not a judge”: no person scoring, diagnosis, covert profiling or automatic judgement. No agentic integration or feature is implied by this cross-project reference.
