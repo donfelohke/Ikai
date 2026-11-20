@@ -17,7 +17,7 @@ Commercial services and bookings run only through **[NAKEBUSEN](https://donfeloh
 
 ## Current constitutional boundary — 2026-11-20
 
-IKAI is the **MIRROR** domain in the four-domain F3L0H architecture: NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION, WARENA / CAPABILITY. F3L0H is the overarching human authorship identity, not a fifth domain. IKAI remains research / work in progress, not a released product or checkout surface. **ONLY NAKEBUSEN TRANSACTS.** See the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md).
+IKAI is the **MIRROR** domain in the four-domain F3L0H architecture: NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION, WARENA / CAPABILITY. F3L0H is the overarching human authorship identity, not a fifth domain. IKAI remains research / work in progress, not a released product or checkout surface. **All commercial enquiries and transactions remain with NAKEBUSEN.** See the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md).
 
 ## Non-negotiable boundaries
 
@@ -124,4 +124,4 @@ WARENA is researching a human-governed agentic operating environment using GNU/L
 
 ## Commercial and market boundary — 2026-11-20
 
-IKAI is **RESEARCH**, not a released product, service catalogue or checkout. No IKAI TAM, revenue forecast or product-market-fit claim is asserted. Any future market sizing must begin with a validated use case, named buyer, safe tested prototype, willingness-to-pay evidence and a paid pilot. The [NAKEBUSEN TAM, MVP & Sales Blueprint](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) governs current commercial sequencing; **ONLY NAKEBUSEN TRANSACTS**. IKAI's privacy and participant-control boundaries remain non-negotiable.
+IKAI is **RESEARCH**, not a released product, service catalogue or checkout. No IKAI TAM, revenue forecast or product-market-fit claim is asserted. Any future market sizing must begin with a validated use case, named buyer, safe tested prototype, willingness-to-pay evidence and a paid pilot. The [NAKEBUSEN TAM, MVP & Sales Blueprint](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/MARKET-ENTRY-TAM-MVP-SALES-BLUEPRINT-2026-11-20.md) governs current commercial sequencing; **All commercial enquiries and transactions remain with NAKEBUSEN.**. IKAI's privacy and participant-control boundaries remain non-negotiable.
