@@ -282,3 +282,28 @@ The particularly important combination is the 2023 *Reflected Reality* work and 
 
 ---
 **Maintainer:** IKAI research · **Author context:** Felix Lwova / Don Feloh · **Status:** RESEARCH · **Date:** 18 November 2026
+
+
+## Glass Terminal alignment — IKAI reflective interaction — 2026-11-20
+
+Glass Terminal is a cross-project interface research direction, not a new IKAI product or a mandate to turn the mirror into a dashboard. IKAI contributes the reflective-experience layer: participant-directed reflection, optical display research, consent, context, privacy and memory semantics.
+
+### IKAI's role
+
+- Investigate the two-way mirror as a physical optical boundary, not merely a visual metaphor.
+- Study display placement, illumination balance, luminance, viewing angles, ambient light, legibility and thermal/power constraints.
+- Keep reflected-body presence distinct from identity recognition or automated interpretation.
+- Let the participant decide what is displayed, recorded, retained, replayed or shared.
+- Keep any sensing optional, purpose-limited, visible and revocable; provide a useful non-camera path.
+- Do not add face identification, diagnosis, beauty scoring, emotion inference, hidden profiling or covert surveillance.
+
+### Interface relationship
+
+The Glass Terminal visual language may inform a future IKAI interface through restrained translucency, clear hierarchy, reflective surfaces and contextual information. Browser CSS blur is not a physical mirror, optical validation or an IKAI implementation. Native rendering and physical optical behavior require separate engineering evaluation.
+
+The public Glass Terminal page is a static research presentation, not an IKAI runtime or commercial feature:
+https://donfelohke.github.io/research/glass-terminal/
+
+### Research status
+
+This alignment adds no implemented mirror display, spatial tracking, sensing pipeline, personal-memory service or released product claim. The M1 two-way-mirror engineering track remains subject to its own optical validation and participant-safety gates.
