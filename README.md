@@ -43,6 +43,7 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 ## Knowledge base
 
 - [Research knowledge-base index](docs/knowledge-base-index.md)  
+- [NVIDIA XR AI Architecture Comparative Study (2026-11-18)](docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial architecture reference only; no NVIDIA dependency or deployment selected.
 - [IKAI Mirror — Technology & Scholarly Research (2026-11-18)](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md)  
 - [Voice, Smart Glasses & Distributed Reflective Computing (2026-11-18)](docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — voice-only and visual AR wearables, hybrid intelligence, first-class display, component contracts, hardware qualification, Guile integration, threat model and staged MVP.  
   
