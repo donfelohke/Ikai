@@ -1,3 +1,7 @@
+> **SUPERSEDED FOR CURRENT DOMAIN ARCHITECTURE — 2026-11-20.** Retained as a dated research boundary. Current shared relationships are defined by the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md): IKAI is MIRROR; NAKEBUSEN is ROOT; GENJE is EXPRESSION; WARENA is CAPABILITY. F3L0H is the overarching authorship identity. IKAI remains research / WIP and is not a released product.
+
+---
+
 # IKAI Portfolio Boundary — 2026-10-31
 
 **Status:** Research boundary and portfolio alignment  
