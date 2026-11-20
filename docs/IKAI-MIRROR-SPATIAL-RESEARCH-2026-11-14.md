@@ -104,3 +104,39 @@ See the [cross-project research landscape](https://github.com/donfelohke/feloh-c
 ## Current technology-policy precedence — 2026-11-17
 
 This document must be read subject to the current [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) and [FELOH Corpus technology policy](https://github.com/donfelohke/feloh-corpus/blob/main/docs/technology-policy-2026-11-17.md). JavaScript is prohibited as a language, runtime, framework or dependency; web technologies are excluded as WARENA/IKAI application and runtime architecture. Prefer native, libre, local-first and user-controlled interfaces. Candidate tools listed in this document do not become approved dependencies merely by appearing here. Historical descriptions remain historical; apply this policy to current and future decisions.
+
+
+## Source and architecture clarification — 2026-11-20
+
+This addendum refines the historical MAVERIK / DEVA3 research lead using the published source records. It preserves the 2026-11-14 research note rather than silently rewriting its original scope.
+
+### GNU/MAVERIK
+
+The published work is titled **GNU/MAVERIK: A microkernel for large-scale virtual environments** (Hubbold et al., *Presence*, 2001; DOI: https://doi.org/10.1162/105474601750182298). Its callback-based object model allows the application to retain its own data representation while registering classes and methods used by the spatial framework. The companion research description identifies spatial/display management, culling, interaction, navigation and conventional/VR input-output support.
+
+MAVERIK is a programmer's framework and historical architecture reference, not a contemporary XR runtime or end-user desktop. GNU archive indexes list historical 6.x source releases, including 6.4 (2009); this does not establish active maintenance or modern build compatibility.
+
+### DEVA3
+
+The DEVA3 paper is **“DEVA3: architecture for a large-scale distributed virtual reality system”**, by Steve Pettifer, Jon Cook, James Marsh and Adrian J. West, ACM VRST 2000, pp. 33–40; DOI: https://doi.org/10.1145/502393.502397.
+
+The published abstract describes large-scale geographically distributed virtual environments, synchronization under network limitations using subjectivity, and a flexible model for virtual-environment object behaviour. This establishes DEVA3 as a distributed-environment architecture, distinct from a rendering toolkit, XR API or compositor.
+
+### Relationship and WARENA disposition
+
+Treat MAVERIK and DEVA3 as complementary research layers:
+- MAVERIK informs local spatial services and application-owned data access.
+- DEVA3 informs shared/distributed environment state, object behaviour and participant-specific views/synchronization.
+- A faithful claim about exact historical integration, release pairing or source-level interoperability requires primary source archaeology.
+
+WARENA's proposed architecture extracts these design principles; it does not claim a port or implementation. The canonical infrastructure comparison and modern interface boundaries are documented in [WARENA's Desktop, Spatial Computing, Immersive XR & Opt-in Intelligence Architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md).
+
+### Source records
+
+- GNU/MAVERIK paper: https://doi.org/10.1162/105474601750182298
+- GNU/MAVERIK teaching/research paper: https://diglib.eg.org/server/api/core/bitstreams/6dcfe6df-735f-4db6-96d3-66e37cdbdce9/content
+- GNU source archive: https://ftp.gnu.org/gnu/maverik/
+- DEVA3 paper: https://doi.org/10.1145/502393.502397
+- DEVA3 bibliographic record: https://dblp.org/rec/conf/vrst/PettiferCMW00
+
+No source checkout, build, runtime, device integration or prototype is claimed.
