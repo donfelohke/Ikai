@@ -25,7 +25,10 @@
 5. Record implementation and observations separately from interpretation.
 6. Publish limitations and negative results; do not overstate findings.
 
-## Research domains
+## Research
+
+- [NVIDIA XR AI Architecture Comparative Study (2026-11-18)](NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial architecture reference; no NVIDIA dependency or deployment selected.
+ domains
 
 | Domain | Questions to document | Evidence required |
 |---|---|---|
