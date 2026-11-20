@@ -55,6 +55,10 @@ Use maturity labels: `LIVE` · `PROTOTYPE` · `RESEARCH` · `CONCEPT` · `HISTOR
 
 ---
 
+## WARENA spatial and XR infrastructure reference — 2026-11-20
+
+- [WARENA spatial/XR/opt-in AI architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md) — infrastructure architecture and historical MAVERIK/DEVA3 foundations; IKAI retains ownership of participant experience and privacy.
+
 ## Ecosystem
 
 | Repository | Role |
