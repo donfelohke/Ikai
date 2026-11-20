@@ -106,3 +106,8 @@ The [Mirror Technology & Scholarly Research](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCH
 ## IKAI Mirror M1 validation — 2026-11-18
 
 The [M1 Engineering Validation Specification](docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) translates the mirror research into proposed test cases and stage gates for optical fidelity, display readability and thermal behaviour, static overlay registration, offline operation, recovery and privacy. Tracking remains optional. Numerical targets are provisional and require review before formal qualification. This is a research plan, not evidence of an implemented prototype.
+
+
+## Sage Philosophy and reflective-computing boundary — 2026-11-20
+
+IKAI's “mirror, not a judge” principle may be placed in dialogue with philosophic inquiry through context, interpretive humility, participant agency and openness to disagreement. This is a contemporary ethical/design correspondence, not a claim that Oruka anticipated reflective computing or that IKAI performs Sage Philosophy interviews. The historical scholarship and source record belong to the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md). IKAI remains RESEARCH / WIP; no feature or implementation is implied.
