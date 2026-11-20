@@ -11,6 +11,7 @@
 
 - [Spatial-computing research (2026-11-14; source clarification 2026-11-20)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) — reflective surface, spatial registration, GNU/MAVERIK and DEVA3 source clarification, participant authority and research gates.
 - [WARENA spatial/XR/opt-in AI architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md) — infrastructure/runtime source of record; IKAI retains participant-facing and privacy authority.
+- [WARENA network/federation architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md) — infrastructure research for local-first state, GNUnet/Reticulum, distributed objects and optional federation; participant data remains private by default.
 - [Reflective-computing research alignment (2026-11-18)](REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) — seven-dimension design critique, methodological limits, participant-directed reflection and movement-notation boundaries.
 
 ## Current portfolio boundary
