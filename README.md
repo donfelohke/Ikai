@@ -13,6 +13,7 @@ IKAI investigates reflective computing: the integration of reflective optics, se
 - [Knowledge base](wiki/)
 - [Reflective computing overview](wiki/architecture/overview.md)
 - [Engineering research](wiki/engineering/)
+- [REFLECTION± — Light In, Light Out, Compute](wiki/engineering/optical-compute.md)
 - [NAKEBUSEN Beauty Tech](wiki/applications/beauty-tech.md)
 - [GENJE embodied computing](wiki/applications/genje.md)
 - [Research method](wiki/research/)
@@ -22,6 +23,7 @@ IKAI investigates reflective computing: the integration of reflective optics, se
 
 ## Research source of record
 
+- [REFLECTION± — Light In, Light Out, Compute — 2026-11-21](docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md)
 - [IKAI Reflective Computing Master Dossier — 2026-11-21](docs/IKAI-REFLECTIVE-COMPUTING-MASTER-DOSSIER-2026-11-21.md)
 - [Knowledge-base index](docs/knowledge-base-index.md)
 - [Mirror Technology & Scholarly Research — 2026-11-18](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md)
