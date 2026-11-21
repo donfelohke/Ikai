@@ -1,62 +1,65 @@
 # IKAI Research Knowledge Base
 
-**Status: RESEARCH / DOCUMENTATION BASELINE.** IKAI is reflective-compute research, not a released product. This index does not claim that a working mirror, sensor integration, or evaluation method exists.
+**Status: RESEARCH / DOCUMENTATION BASELINE.** IKAI is reflective-compute research, not a released product.
 
-## IKAI Mirror research track
+> **Public portal:** [IKAI — Reflective Compute](https://donfelohke.github.io/Ikai/)  
+> **Wiki entry:** [Knowledge Base](../wiki/)
 
-- [Mirror M1 Engineering Validation Specification (2026-11-18)](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) — proposed measurable optical, colour/illumination, display/thermal, static-overlay, offline, reliability, privacy and optional-sensing tests; stage gates and evidence requirements. Proposed thresholds are provisional; no implementation or procurement is claimed.
+## Browse by research domain
 
-- [Mirror Technology & Scholarly Research (2026-11-18)](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) — five engineering approaches, optical trade-offs, hardware stack, essential scholarly reading (smart-mirror, AR mirrors, embodiment/movement, data protection), research modules, proposed M1 prototype, and architectural position (Mirror / Glass / Space).
-- [Voice, Smart Glasses & Distributed Reflective Computing (2026-11-18)](IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — both voice-only and visual AR wearables; hybrid intelligence; first-class display; contracts, hardware qualification, Scheme integration, privacy threat model and staged MVP.
+- [Architecture](../wiki/architecture/) — reflective computing, system boundaries and spatial directions.
+- [Engineering](../wiki/engineering/) — optical systems, cameras, displays, touch and real-time I/O.
+- [Applications](../wiki/applications/) — NAKEBUSEN Beauty Tech and GENJE embodied computing.
+- [Research method](../wiki/research/) — research protocol, evidence maturity and reproducibility.
+- [Governance](../wiki/governance/) — privacy, participant authority and safety.
+- [Sources and evidence](../wiki/sources/) — primary project records and evidence register.
+- [Glossary](../wiki/glossary/) — canonical working terminology.
 
-- [Spatial-computing research (2026-11-14; source clarification 2026-11-20)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md) — reflective surface, spatial registration, GNU/MAVERIK and DEVA3 source clarification, participant authority and research gates.
-- [WARENA spatial/XR/opt-in AI architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md) — infrastructure/runtime source of record; IKAI retains participant-facing and privacy authority.
-- [WARENA network/federation architecture (2026-11-20)](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md) — infrastructure research for local-first state, GNUnet/Reticulum, distributed objects and optional federation; participant data remains private by default.
-- [Reflective-computing research alignment (2026-11-18)](REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md) — seven-dimension design critique, methodological limits, participant-directed reflection and movement-notation boundaries.
+## Canonical research records
 
-## Current portfolio boundary
+### Mirror and reflective computing
+- [IKAI Mirror M1 Engineering Validation Specification (2026-11-18)](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md)
+- [IKAI Mirror Technology & Scholarly Research (2026-11-18)](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md)
+- [IKAI Mirror Spatial Research (2026-11-14)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md)
+- [Voice, Smart Glasses & Distributed Reflective Computing (2026-11-18)](IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md)
+- [Reflective Computing Research Alignment](REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md)
+- [NVIDIA XR AI Architecture Comparative Study (2026-11-18)](NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md)
 
-- [Portfolio Boundary (2026-10-31)](PORTFOLIO-BOUNDARY-2026-10-31.md) — IKAI's separation from commercial products and the GENJE launch campaign.
+### Identity, foundations and context
+- [IKAI Name Note](IKAI-NAME-NOTE.md)
+- [Foundations](FOUNDATIONS.md)
+- [Identity and Native Technology Boundary](IDENTITY-AND-NATIVE-TECHNOLOGY-BOUNDARY-2026-11-17.md)
+- [Before Africa: Existence and Knowledge](BEFORE-AFRICA-EXISTENCE-AND-KNOWLEDGE-2026-11-07.md)
+- [Portfolio Boundary](PORTFOLIO-BOUNDARY-2026-10-31.md)
+- [F3L0H Alignment (2026-11-20)](F3L0H-ALIGNMENT-2026-11-20.md)
 
-## Reading path
+### Research governance
+- [Research Agenda](research-agenda.md)
+- [Research Protocol](RESEARCH-PROTOCOL.md)
+- [Privacy Model](privacy-model.md)
+- [Research Evidence and Release Criteria](research-evidence-and-release-criteria.md)
+- [Stewardship](STEWARDSHIP.md)
+- [Governance](../GOVERNANCE.md)
+- [Security](../SECURITY.md)
 
-1. Read the [research agenda](research-agenda.md) before proposing an experiment.
-2. Apply the [privacy model](privacy-model.md) before collecting or processing data.
-3. Define the research question, participant control, minimum data, success/failure criteria, and deletion path.
-4. Use synthetic data or a local isolated setup where feasible.
-5. Record implementation and observations separately from interpretation.
-6. Publish limitations and negative results; do not overstate findings.
+## Reading paths
 
-## Research
+**New reader:** [Start here](../wiki/start-here/) → [Reflective computing](../wiki/architecture/overview/) → [Glossary](../wiki/glossary/) → [Research method](../wiki/research/).
 
-- [NVIDIA XR AI Architecture Comparative Study (2026-11-18)](NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial architecture reference; no NVIDIA dependency or deployment selected.
- domains
+**Hardware researcher:** [Mirror technology research](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) → [M1 validation](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) → [Bidirectional ReflectiveIO](../wiki/engineering/realtime-io/).
 
-| Domain | Questions to document | Evidence required |
-|---|---|---|
-| Reflective interfaces | What can a participant inspect and control? | Interaction specification and observed tests |
-| Embodied practice | How is movement contextualised without reducing a person to a profile? | Method, context, consent, limitations |
-| Local computation | What data stays on-device or local network? | Data-flow inspection and external-traffic tests |
-| Sensor experiments | What is collected and why? | Inventory, access model, retention and deletion tests |
-| Participant-directed records | Can participants inspect/export/delete their data? | Demonstrated workflows and failure cases |
-| Optical mirror systems | How does reflection quality interact with display and sensing? | Optical measurements, lighting control, overlay registration |
+**Application researcher:** [NAKEBUSEN Beauty Tech](../wiki/applications/beauty-tech/) → [GENJE](../wiki/applications/genje/) → [Privacy and participant authority](../wiki/governance/privacy/).
+
+## Evidence and maturity
+
+Use PROPOSED, CONCEPT, RESEARCH, PROTOTYPE, LIVE, HISTORICAL, SUPERSEDED and UNKNOWN accurately. A demonstration is not validation; a policy is not an implementation audit; a market hypothesis is not product-market fit.
+
+For every experiment, record the question, status/date, source commit, hardware/software, data type and source, consent basis where relevant, processing location, procedure, success/failure criteria, observed results, alternative explanations, limitations, privacy review, reproduction steps and deletion confirmation.
 
 ## Non-negotiable boundaries
 
-- No face identification, biometric identity matching, covert surveillance, diagnosis, person scoring, or hidden profiling.
-- Do not infer health, emotion, personality, identity, or capability from movement/sensor data.
-- External processing requires an explicit purpose and reviewed data-flow, retention, and access model.
+- No face identification, biometric identity matching, covert surveillance, diagnosis, person scoring or hidden profiling.
+- Do not infer health, emotion, personality, identity or capability from movement or sensor data.
+- External processing requires an explicit purpose and reviewed data-flow, retention and access model.
 - Do not describe a prototype as privacy-preserving until relevant data flows and controls have been tested.
 - For beauty/loc-care applications, optical reflection remains the primary visual reference; digital content must not compromise natural appearance assessment.
-
-## Experiment evidence record
-
-For each experiment record the question, status/date, source commit, hardware/software, data type and source, consent basis where relevant, processing location, procedure, success/failure criteria, observed results, alternative explanations, limitations, privacy review, reproduction steps, and deletion confirmation.
-
-A demonstration is not validation. A policy is not an implementation audit. Treat hypotheses and interpretation as such, and distinguish them from observations.
-
-## Canonical identity and technology policy — 2026-11-17
-
-- [IKAI Name Note](IKAI-NAME-NOTE.md) — IKAI is a Turkana female name meaning “home.”
-- [Identity and Native Technology Boundary](IDENTITY-AND-NATIVE-TECHNOLOGY-BOUNDARY-2026-11-17.md) — JavaScript prohibition, web-technology exclusion and native/local-first research direction.
-- [WARENA Technology Constitution](https://github.com/donfelohke/WARENA/blob/main/docs/TECHNOLOGY-CONSTITUTION-2026-11-17.md) — governing infrastructure policy.

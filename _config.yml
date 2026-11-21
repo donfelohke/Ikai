@@ -1,0 +1,25 @@
+title: IKAI — Reflective Compute
+description: Open research knowledge base for reflective computing, optical interfaces, embodied interaction and local-first systems.
+url: "https://donfelohke.github.io"
+baseurl: "/Ikai"
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: default
+  - scope:
+      path: "wiki"
+      type: "pages"
+    values:
+      layout: default
+exclude: [AGENTS.md, CONTRIBUTING.md, GOVERNANCE.md, SECURITY.md, AI-ASSISTED-DEVELOPMENT.md, LICENSE, vendor]

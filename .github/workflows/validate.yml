@@ -1,30 +1,58 @@
-name: Validate repository baseline
-
+name: Validate and publish IKAI portal
 on:
   pull_request:
   push:
-    branches:
-      - main
-
+    branches: [main]
+  workflow_dispatch:
 permissions:
   contents: read
-
+concurrency:
+  group: ikai-pages-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
-  documentation-baseline:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - name: Validate required documentation
+      - name: Validate repository and portal baseline
         shell: bash
         run: |
           set -euo pipefail
-          for file in README.md GOVERNANCE.md CONTRIBUTING.md SECURITY.md docs/privacy-model.md docs/research-agenda.md docs/knowledge-base-index.md; do
+          for file in README.md GOVERNANCE.md CONTRIBUTING.md SECURITY.md docs/privacy-model.md docs/research-agenda.md docs/knowledge-base-index.md index.html _config.yml _layouts/default.html assets/site.css wiki/index.md wiki/architecture/overview.md wiki/engineering/optics.md wiki/engineering/realtime-io.md wiki/applications/beauty-tech.md wiki/applications/genje.md wiki/governance/privacy.md wiki/sources/index.md; do
             test -s "$file" || { echo "Missing or empty required file: $file"; exit 1; }
           done
-          grep -q "mirror, not a judge" README.md || { echo "README missing IKAI governing principle"; exit 1; }
-          if grep -qi "ONLY NAKEBUSEN TRANSACTS" README.md GOVERNANCE.md; then
-            echo "Use approved customer-facing pathway wording instead of the internal boundary slogan."
-            exit 1
-          fi
-          echo "Required documentation baseline is present."
+          grep -qi "mirror, not a judge" README.md
+          grep -q "RESEARCH" index.html
+          if grep -Rqi '<script' index.html _layouts assets wiki; then echo "Portal must remain JavaScript-free."; exit 1; fi
+          if grep -Rqi '<iframe' index.html _layouts assets wiki; then echo "Portal must not embed remote frames."; exit 1; fi
+          echo "IKAI documentation and static portal baseline is present."
+  build:
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Build GitHub Pages site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: .
+          destination: ./_site
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
