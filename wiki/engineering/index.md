@@ -3,6 +3,7 @@ title: Engineering
 ---
 # Engineering
 
+- [REFLECTION± — Light In, Light Out, Compute](optical-compute/) — optical acquisition, computation, emission, standards and real-time reciprocal systems.
 - [Two-way mirror and optical engineering](optics/)
 - [Camera-screen bidirectional ReflectiveIO](realtime-io/)
 - [M1 engineering validation specification](../../docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md)
