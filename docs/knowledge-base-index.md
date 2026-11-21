@@ -9,6 +9,7 @@
 
 - [Architecture](../wiki/architecture/) — reflective computing, system boundaries and spatial directions.
 - [Engineering](../wiki/engineering/) — optical systems, cameras, displays, touch and real-time I/O.
+- [REFLECTION± — Light In, Light Out, Compute](../wiki/engineering/optical-compute.md) — bidirectional optical-computational systems, standards, timing, photonics and experimental sequence.
 - [Applications](../wiki/applications/) — NAKEBUSEN Beauty Tech and GENJE embodied computing.
 - [Research method](../wiki/research/) — research protocol, evidence maturity and reproducibility.
 - [Governance](../wiki/governance/) — privacy, participant authority and safety.
@@ -17,7 +18,9 @@
 
 ## Canonical research records
 
-### Mirror and reflective computing
+### Reflective computing and optical-computational systems
+- [REFLECTION± — Light In, Light Out, Compute (2026-11-21)](REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md)
+- [IKAI Reflective Computing Master Research Dossier (2026-11-21)](IKAI-REFLECTIVE-COMPUTING-MASTER-DOSSIER-2026-11-21.md)
 - [IKAI Mirror M1 Engineering Validation Specification (2026-11-18)](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md)
 - [IKAI Mirror Technology & Scholarly Research (2026-11-18)](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md)
 - [IKAI Mirror Spatial Research (2026-11-14)](IKAI-MIRROR-SPATIAL-RESEARCH-2026-11-14.md)
@@ -46,7 +49,7 @@
 
 **New reader:** [Start here](../wiki/start-here/) → [Reflective computing](../wiki/architecture/overview/) → [Glossary](../wiki/glossary/) → [Research method](../wiki/research/).
 
-**Hardware researcher:** [Mirror technology research](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) → [M1 validation](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) → [Bidirectional ReflectiveIO](../wiki/engineering/realtime-io/).
+**Optics / I/O researcher:** [REFLECTION±](../wiki/engineering/optical-compute.md) → [Camera-screen Bidirectional ReflectiveIO](../wiki/engineering/realtime-io.md) → [M1 validation](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) → [Mirror technology research](IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md).
 
 **Application researcher:** [NAKEBUSEN Beauty Tech](../wiki/applications/beauty-tech/) → [GENJE](../wiki/applications/genje/) → [Privacy and participant authority](../wiki/governance/privacy/).
 
