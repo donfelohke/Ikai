@@ -22,7 +22,7 @@ The knowledge base is the structured reference layer of IKAI. It is organised li
 
 **New reader:** [Start here](start-here/) → [Reflective computing](architecture/overview/) → [Glossary](glossary/) → [Research method](research/).
 
-**Hardware researcher:** [Architecture](architecture/) → [Optical engineering](engineering/optics/) → [Bidirectional ReflectiveIO](engineering/realtime-io/) → [M1 validation](../docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md).
+**Hardware researcher:** [Architecture](architecture/) → [REFLECTION± — Light In, Light Out, Compute](engineering/optical-compute/) → [Optical engineering](engineering/optics/) → [Bidirectional ReflectiveIO](engineering/realtime-io/) → [M1 validation](../docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md).
 
 **Application researcher:** [NAKEBUSEN Beauty Tech](applications/beauty-tech/) → [GENJE](applications/genje/) → [Privacy and authority](governance/privacy/).
 
@@ -39,6 +39,7 @@ The knowledge base is the structured reference layer of IKAI. It is organised li
 
 - [Start here](start-here/)
 - [Reflective computing](architecture/overview/)
+- [REFLECTION± — Light In, Light Out, Compute](engineering/optical-compute/)
 - [Camera-screen bidirectional ReflectiveIO](engineering/realtime-io/)
 - [Two-way mirror optics](engineering/optics/)
 - [Beauty Tech](applications/beauty-tech/)
