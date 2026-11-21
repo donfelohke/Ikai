@@ -14,6 +14,8 @@ A conventional mirror returns light and presents a reflected view. A display pla
 
 The important change is not that a mirror becomes a computer in the abstract. It is that a physical reflective environment can become an input/output surface where human-directed interaction, sensing, computation and visual feedback are deliberately coordinated.
 
+The broader optical-computational research framing is **REFLECTION± — LIGHT IN · LIGHT OUT · COMPUTE**. It examines optical acquisition, computational transformation, optical emission/modulation and the reciprocal feedback loop as distinct, measurable operations. See the [REFLECTION± engineering article](../engineering/optical-compute.md) and [full research dossier](../../docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md).
+
 ## Four distinct layers
 
 1. **Optical layer** — mirror substrate, coating, transmission, reflection, illumination and viewing geometry.
@@ -43,9 +45,11 @@ NAKEBUSEN provides an initial real-world beauty-service context. WARENA provides
 
 ## Primary research records
 
+- [REFLECTION± — Light In, Light Out, Compute (2026-11-21)](../../docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md)
+- [REFLECTION± engineering article](../engineering/optical-compute.md)
 - [Mirror Technology & Scholarly Research (2026-11-18)](../../docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md)
-- [M1 Engineering Validation Specification (2026-11-18)](../../docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md)
-- [Reflective Computing Research Alignment](../../docs/REFLECTIVE-COMPUTING-RESEARCH-ALIGNMENT-2026-11.md)
+- [M1 validation specification (2026-11-18)](../../docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md)
+- [Camera-screen Bidirectional ReflectiveIO](../engineering/realtime-io.md)
 - [Identity and Native Technology Boundary](../../docs/IDENTITY-AND-NATIVE-TECHNOLOGY-BOUNDARY-2026-11-17.md)
 
 ## Open questions
