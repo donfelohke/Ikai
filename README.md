@@ -4,7 +4,7 @@
 **Guiding principle:** a mirror, not a judge.  
 **Status:** RESEARCH / WORK IN PROGRESS — not a released product.
 
-> **[Open the IKAI Research Portal →](https://donfelohke.github.io/Ikai/)**
+> **Portal publication pending:** the static Jekyll portal source and build workflow exist, but GitHub Pages is not enabled. Use the [repository knowledge base](wiki/) and [engineering research index](wiki/engineering/) while publication is pending.
 
 IKAI investigates reflective computing: the integration of reflective optics, sensing, displays, local computation and human-directed interaction in physical environments. The mirror is the first experimental embodiment, not the limit of the research.
 

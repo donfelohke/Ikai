@@ -29,7 +29,7 @@ No product, clinical, performance or deployment claim without direct evidence. N
 
 ## Immediate sequence
 
-1. Enable GitHub Pages with GitHub Actions as publishing source and validate the existing workflow.
+1. **Enable GitHub Pages with GitHub Actions as the publishing source.** The workflow exists. On 2026-11-21, run [#105](https://github.com/donfelohke/Ikai/actions/runs/44887636726) completed the repository validation and Jekyll build jobs successfully, but the deploy job failed with HTTP 404: “Ensure GitHub Pages has been enabled.” Repository metadata currently reports `has_pages: false`. Enable Pages in repository Settings → Pages → Build and deployment → Source: GitHub Actions, then rerun the `main` workflow and verify the published URL. Do not describe the Portal as live until deployment succeeds and the page is checked.
 2. Reconcile open research PRs against the current master dossier.
 3. Audit broken links and navigation in the current Portal hierarchy.
 4. Prioritise an M1 mirror validation protocol and bidirectional IO test matrix.
