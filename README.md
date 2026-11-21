@@ -62,3 +62,8 @@ The portal is a static documentation surface: no JavaScript, analytics, tracking
 ## Contributing
 
 Read AGENTS.md, GOVERNANCE.md, CONTRIBUTING.md and SECURITY.md before contributing. Start with [wiki/contributing.md](wiki/contributing.md).
+
+
+## Upgrade plan
+
+See [repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). The existing IKAI Portal structure is intentionally preserved.
