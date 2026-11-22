@@ -394,3 +394,14 @@ A successful M1 demonstrator does not establish a released IKAI product, clinica
 **Author context:** Felix Lwova / Don Feloh  
 **Status:** RESEARCH / PROPOSED VALIDATION PLAN  
 **No implementation, procurement, deployment or product claim is made.**
+
+
+## 2026-11-22 research update — optical candidate and I/O validation
+
+The two-way / partially reflective mirror is the leading M1 candidate for initial evaluation because it may preserve a reflective surface while allowing a display path behind the glass. This remains a candidate, not a final selection, procurement decision or validated assembly.
+
+The M1 protocol must measure the assembled optical path rather than rely on nominal material specifications: visible transmission and reflectance, colour shift, haze, distortion, ghosting, viewing angle, ambient-light dependence, display luminance/contrast through the glass, camera/sensor visibility, geometry, thermal behaviour, mounting and safety. Test mirror, display, lighting and camera placement together.
+
+Add a real-time bidirectional I/O matrix for capture cadence, capture-to-display latency, timestamp origin, clock drift, jitter, throughput, queue depth, dropped frames, command-to-visible-state delay, sustained load and device/process failure recovery. Record median, p95, p99 and maximum latency with sample counts and hardware/software revisions. No measured result is asserted by this addendum.
+
+See [IKAI Mirror Systems, Cameras, Displays and Real-Time Bidirectional I/O](IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) and [WARENA's native display/I/O pipeline study](https://github.com/donfelohke/WARENA/blob/main/docs/REALTIME-BIDIRECTIONAL-IO-AND-DISPLAY-PIPELINES-2026-11-22.md).
