@@ -66,3 +66,10 @@ For every experiment, record the question, status/date, source commit, hardware/
 - External processing requires an explicit purpose and reviewed data-flow, retention and access model.
 - Do not describe a prototype as privacy-preserving until relevant data flows and controls have been tested.
 - For beauty/loc-care applications, optical reflection remains the primary visual reference; digital content must not compromise natural appearance assessment.
+
+
+
+## African history, knowledge and reflective futures
+
+- [Black Hinterland — Existence, Knowledge Governance and Reflective Futures (2026-11-22)](../docs/BLACK-HINTERLAND-EXISTENCE-KNOWLEDGE-AND-REFLECTIVE-FUTURES-2026-11-22.md) — IKAI's bounded contribution on situated intellectual traditions, personhood, reflection, participant authority and knowledge governance.
+- Shared historical framework: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
