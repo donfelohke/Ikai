@@ -69,3 +69,9 @@ Read AGENTS.md, GOVERNANCE.md, CONTRIBUTING.md and SECURITY.md before contributi
 ## Upgrade plan
 
 See [repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). The existing IKAI Portal structure is intentionally preserved.
+
+
+
+## BLACK HINTERLAND — knowledge, personhood and reflective futures
+
+IKAI's bounded contribution is [Black Hinterland — Existence, Knowledge Governance and Reflective Futures (2026-11-22)](docs/BLACK-HINTERLAND-EXISTENCE-KNOWLEDGE-AND-REFLECTIVE-FUTURES-2026-11-22.md). It connects historically situated intellectual traditions with contemporary reflection and participant agency without treating African philosophy as a single doctrine or turning culture and ancestry into behavioural metrics. Shared historical framework: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
