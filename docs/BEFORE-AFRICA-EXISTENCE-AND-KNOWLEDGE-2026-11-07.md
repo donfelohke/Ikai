@@ -89,3 +89,9 @@ Henry Odera Oruka's Sage Philosophy Project is a significant Kenyan case for exa
 This is a contemporary design correspondence only. Oruka's project was a philosophical research programme, not a precursor implementation of reflective computing. See the [FELOH Corpus Oruka dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) for primary-source direction, scholarly critiques and full methodological safeguards.
 
 **Maturity:** RESEARCH. No IKAI feature, participant evaluation or interview archive is claimed.
+
+
+
+## BLACK HINTERLAND alignment — 22 November 2026
+
+The integrated programme map is [BLACK HINTERLAND — BEFORE AFRICA](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md). IKAI's current bounded extension is [Black Hinterland — Existence, Knowledge Governance and Reflective Futures](BLACK-HINTERLAND-EXISTENCE-KNOWLEDGE-AND-REFLECTIVE-FUTURES-2026-11-22.md). This earlier note remains the record of IKAI's initial comparative research questions. Preserve the distinction between historical traditions and contemporary design interpretation.
