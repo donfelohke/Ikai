@@ -73,3 +73,8 @@ For every experiment, record the question, status/date, source commit, hardware/
 
 - [Black Hinterland — Existence, Knowledge Governance and Reflective Futures (2026-11-22)](../docs/BLACK-HINTERLAND-EXISTENCE-KNOWLEDGE-AND-REFLECTIVE-FUTURES-2026-11-22.md) — IKAI's bounded contribution on situated intellectual traditions, personhood, reflection, participant authority and knowledge governance.
 - Shared historical framework: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
+
+
+## Current research alignment — 2026-11-22
+
+See [IKAI reflective systems update](ECOSYSTEM-UPDATE-2026-11-22.md) for the REFLECTION± system model, optical/display/camera research boundaries, bidirectional I/O requirements, privacy constraints and evidence maturity gates.
