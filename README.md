@@ -78,3 +78,8 @@ See [repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md). The e
 ## BLACK HINTERLAND — knowledge, personhood and reflective futures
 
 IKAI's bounded contribution is [Black Hinterland — Existence, Knowledge Governance and Reflective Futures (2026-11-22)](docs/BLACK-HINTERLAND-EXISTENCE-KNOWLEDGE-AND-REFLECTIVE-FUTURES-2026-11-22.md). It connects historically situated intellectual traditions with contemporary reflection and participant agency without treating African philosophy as a single doctrine or turning culture and ancestry into behavioural metrics. Shared historical framework: [FELOH Corpus master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md).
+
+
+## Mirror systems and real-time I/O — 2026-11-22
+
+- [Mirror Systems, Cameras, Displays and Real-Time Bidirectional I/O](docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) — two-way mirror M1 candidate, optical/camera/display separation, human feedback, measurement matrix and privacy gates. Research protocol; no integrated system claimed.
