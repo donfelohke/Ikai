@@ -78,3 +78,8 @@ For every experiment, record the question, status/date, source commit, hardware/
 ## Current research alignment — 2026-11-22
 
 See [IKAI reflective systems update](ECOSYSTEM-UPDATE-2026-11-22.md) for the REFLECTION± system model, optical/display/camera research boundaries, bidirectional I/O requirements, privacy constraints and evidence maturity gates.
+
+
+## Mirror systems and real-time I/O
+
+- [IKAI Mirror Systems, Cameras, Displays and Real-Time Bidirectional I/O](IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) — M1 optical candidate evaluation and real-time validation protocol.
