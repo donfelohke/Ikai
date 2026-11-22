@@ -34,3 +34,9 @@ No product, clinical, performance or deployment claim without direct evidence. N
 3. Audit broken links and navigation in the current Portal hierarchy.
 4. Prioritise an M1 mirror validation protocol and bidirectional IO test matrix.
 5. Record results, including negative results and unknowns, in existing docs/wiki locations.
+
+## Execution addendum — 2026-11-22
+
+Direct-to-main updates added [Mirror Systems, Cameras, Displays and Real-Time Bidirectional I/O](IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md), indexed it in the README and knowledge base, and extended the M1 validation specification. Two-way / partially reflective mirror is the leading M1 evaluation candidate, not a validated or procured component. Optical, camera, display, compute and human-feedback paths remain separate testable subsystems.
+
+**Verification:** repository validation and Jekyll build passed in [workflow run #45007911840](https://github.com/donfelohke/Ikai/actions/runs/45007911840). GitHub Pages deployment failed because Pages is not enabled for this repository (HTTP 404). Enable Pages in repository Settings → Pages → Build and deployment → GitHub Actions, then rerun and verify publication. The Portal is not described as live; no integrated mirror or product is claimed.
