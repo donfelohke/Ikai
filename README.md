@@ -1,5 +1,8 @@
 # IKAI — Reflective Compute
 
+> Current alignment: [Ecosystem update — 2026-11-22](docs/ECOSYSTEM-UPDATE-2026-11-22.md). This dated record supplements this README; it does not replace the canonical source documents.
+
+
 **IKAI is a Turkana female name meaning “home.”**  
 **Guiding principle:** a mirror, not a judge.  
 **Status:** RESEARCH / WORK IN PROGRESS — not a released product.
