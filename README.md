@@ -84,3 +84,7 @@ IKAI is the reflective research dimension in DON FELOH's wider practice. Its nam
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
+
+## Ecosystem alignment · 2026-11-24
+
+See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for current shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
