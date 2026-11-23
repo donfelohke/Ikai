@@ -1,6 +1,6 @@
 # IKAI — Reflective Compute
 
-**IKAI is a Turkana female name meaning “home.”**  
+**Name note:** IKAI has a proposed Turkana female-name association with “home”; language variety, spelling, pronunciation, morphology and community usage remain to be verified.  
 **Guiding principle:** a mirror, not a judge.  
 **Status:** **RESEARCH / WORK IN PROGRESS** — not a released product.  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
@@ -71,7 +71,7 @@ Read [AGENTS.md](AGENTS.md), [GOVERNANCE.md](GOVERNANCE.md), [CONTRIBUTING.md](C
 
 ## IKAI within GRACE · GRIT · GLORY
 
-IKAI is the reflective research dimension in DON FELOH's wider practice. Its name is a Turkana female name meaning **“home.”** Its guiding principle remains: **a mirror, not a judge.**
+IKAI is the reflective research dimension in DON FELOH's wider practice. A working name note associates IKAI with a Turkana female name meaning **“home”; this attribution remains unverified pending linguistic and community consultation.** Its guiding principle remains: **a mirror, not a judge.**
 
 - **GRACE → NAKEBUSEN:** beauty, heritage, craft and dignity; the human and commercial grounding.
 - **GRIT → WARENA:** technical capability, free technology and infrastructure.
@@ -84,3 +84,8 @@ IKAI is the reflective research dimension in DON FELOH's wider practice. Its nam
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
+
+
+## Ecosystem alignment · 2026-11-24
+
+See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for current shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
