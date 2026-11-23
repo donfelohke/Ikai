@@ -83,3 +83,8 @@ See [IKAI reflective systems update](ECOSYSTEM-UPDATE-2026-11-22.md) for the REF
 ## Mirror systems and real-time I/O
 
 - [IKAI Mirror Systems, Cameras, Displays and Real-Time Bidirectional I/O](IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) — M1 optical candidate evaluation and real-time validation protocol.
+
+
+## Local-first cooperative infrastructure — 2026-11-23
+
+- [IKAI — Local-First Cooperative Infrastructure Implications](research/IKAI-LOCAL-FIRST-COOPERATIVE-INFRASTRUCTURE-IMPLICATIONS-2026-11-23.md) — participant control, offline continuity, cooperative trust boundaries, networked data flows and threat-model requirements. Research only.
