@@ -6,7 +6,7 @@
 
 IKAI studies reflective computing, mirror systems, embodied interfaces and human-controlled relationships between perception, deliberation and computation. The guiding principle is **a mirror, not a judge**. Its purpose is to support reflection and agency, not classify, rank or govern people.
 
-The repository's established name note records IKAI as a Turkana female name meaning “home.” Preserve the attribution and source context in public use; do not extrapolate that name note into unsupported historical or linguistic claims.
+A working, user-supplied name note associates IKAI with a Turkana female name meaning “home.” Treat this as an attributed hypothesis pending verification of language variety, spelling, pronunciation, morphology and community usage; do not present it as an established etymology.
 
 ## Research architecture
 
