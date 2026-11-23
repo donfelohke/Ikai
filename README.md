@@ -68,3 +68,17 @@ Read [AGENTS.md](AGENTS.md), [GOVERNANCE.md](GOVERNANCE.md), [CONTRIBUTING.md](C
 ---
 
 **IKAI · MIRROR · A HOME FOR REFLECTIVE COMPUTING**
+
+## IKAI within GRACE · GRIT · GLORY
+
+IKAI is the reflective research dimension in DON FELOH's wider practice. Its name is a Turkana female name meaning **“home.”** Its guiding principle remains: **a mirror, not a judge.**
+
+- **GRACE → NAKEBUSEN:** beauty, heritage, craft and dignity; the human and commercial grounding.
+- **GRIT → WARENA:** technical capability, free technology and infrastructure.
+- **GLORY → DON FELOH:** human authorship, creative agency and becoming.
+- **GENJE:** embodied sound, movement, livecoding and cultural practice.
+- **IKAI:** reflection, existence, memory, knowledge and reflective-computing research.
+
+**GENJE ZA WARENA | NAKEBUSEN** is the shared identity signature, not an IKAI product or commercial offer. IKAI remains RESEARCH / WORK IN PROGRESS. **ONLY NAKEBUSEN TRANSACTS.**
+
+> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
