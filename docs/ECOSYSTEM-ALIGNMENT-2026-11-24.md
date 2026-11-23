@@ -44,3 +44,7 @@ Keep the knowledge-base index, research source register, M1 validation specifica
 - [WARENA](https://github.com/donfelohke/WARENA)
 - [GENJE](https://github.com/donfelohke/Genje)
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN)
+
+## Shared brand reference
+
+The proposed [FELOH Corpus Brand Constitution v1.0](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md) provides shared identity and messaging context. IKAI remains the owner of its reflective-computing research, participant-facing design and consent requirements; the brand relationship does not turn IKAI into a NAKEBUSEN product or feature.
