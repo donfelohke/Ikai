@@ -82,3 +82,5 @@ IKAI is the reflective research dimension in DON FELOH's wider practice. Its nam
 **GENJE ZA WARENA | NAKEBUSEN** is the shared identity signature, not an IKAI product or commercial offer. IKAI remains RESEARCH / WORK IN PROGRESS. **ONLY NAKEBUSEN TRANSACTS.**
 
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+
+Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
