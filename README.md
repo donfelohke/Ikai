@@ -97,3 +97,8 @@ Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](http
 ## Ecosystem alignment · 2026-11-24
 
 See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for current shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
+
+
+## Research addition · 2026-11-24
+
+See [M1 Optical and Display Bench Addendum](docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) for the source-grounded research and proposed validation protocol. This document is research, not an implementation or compliance claim.
