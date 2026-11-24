@@ -69,6 +69,10 @@ Read [AGENTS.md](AGENTS.md), [GOVERNANCE.md](GOVERNANCE.md), [CONTRIBUTING.md](C
 
 **IKAI · MIRROR · A HOME FOR REFLECTIVE COMPUTING**
 
+## Copy application — 2026-11-24
+
+See [IKAI Reflective Computing Copy Guide](docs/COPY-APPLICATION-2026-11-24.md) for research-safe public language, participant safeguards, visual restrictions and maturity wording.
+
 ## IKAI within GRACE · GRIT · GLORY
 
 IKAI is the reflective research dimension in DON FELOH's wider practice. A working name note associates IKAI with a Turkana female name meaning **“home”; this attribution remains unverified pending linguistic and community consultation.** Its guiding principle remains: **a mirror, not a judge.**
