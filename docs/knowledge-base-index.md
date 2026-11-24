@@ -1,9 +1,9 @@
 # IKAI Research Knowledge Base
 
-**Status: RESEARCH / DOCUMENTATION BASELINE.** IKAI is reflective-compute research, not a released product.
+**Status: RESEARCH / DOCUMENTATION BASELINE.** IKAI is reflective-computing research, not a released product. The repository wiki and source documents are the current reading surface; the Pages portal remains unpublished until deployment is enabled and verified.
 
-> **Public portal:** [IKAI — Reflective Compute](https://donfelohke.github.io/Ikai/)  
-> **Wiki entry:** [Knowledge Base](../wiki/)
+> **Pages publication:** PENDING — GitHub Pages must be enabled in repository Settings before the portal URL can be treated as live.
+> **Current reading entry:** [Repository knowledge base](../wiki/)
 
 ## Browse by research domain
 
