@@ -1,6 +1,6 @@
 # IKAI — Reflective Compute
 
-**Name note:** IKAI has a proposed Turkana female-name association with “home”; language variety, spelling, pronunciation, morphology and community usage remain to be verified.  
+**Name:** IKAI is a Turkana female name meaning “home”. This is the founder-provided naming context for the project; linguistic documentation, language variety and community usage remain appropriate subjects for careful research.  
 **Guiding principle:** a mirror, not a judge.  
 **Status:** **RESEARCH / WORK IN PROGRESS** — not a released product.  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
@@ -23,6 +23,7 @@ IKAI investigates reflective computing: the integration of reflective optics, se
 
 ## Research source of record
 
+- [M1 Optical and Display Bench Addendum (2026-11-24)](docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) — proposed optical and display validation protocol; not a tested integrated system.
 - [REFLECTION± — Light In, Light Out, Compute (2026-11-21)](docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md).
 - [IKAI Reflective Computing Master Dossier (2026-11-21)](docs/IKAI-REFLECTIVE-COMPUTING-MASTER-DOSSIER-2026-11-21.md).
 - [Mirror Technology & Scholarly Research (2026-11-18)](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md).
