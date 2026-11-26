@@ -108,3 +108,8 @@ See [M1 Optical and Display Bench Addendum](docs/IKAI-M1-OPTICAL-AND-DISPLAY-BEN
 ## Shared identity alignment · 26 November 2026
 
 IKAI is the **MIRROR / reflective-computing research** domain. In the current pillar mapping, GRACE → NAKEBUSEN, GRIT → WARENA and GLORY → GENJE / GENJENESS; FELOH remains the human author. IKAI is a Turkana female name meaning **“home”**; this is the founder-provided naming context. Guiding principle: **a mirror, not a judge.** See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md).
+
+
+## Documentation index
+
+See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
