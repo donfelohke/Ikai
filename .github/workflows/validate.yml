@@ -1,4 +1,4 @@
-name: Validate and publish IKAI portal
+name: Validate and build IKAI portal
 on:
   pull_request:
   push:
@@ -43,7 +43,9 @@ jobs:
         with:
           path: ./_site
   deploy:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    # Fail closed: GitHub Pages is not enabled for this repository yet.
+    # Set the repository variable IKAI_PAGES_ENABLED=true only after enabling Pages.
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main' && vars.IKAI_PAGES_ENABLED == 'true'
     needs: build
     runs-on: ubuntu-latest
     permissions:
