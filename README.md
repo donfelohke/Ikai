@@ -76,11 +76,11 @@ See [IKAI Reflective Computing Copy Guide](docs/COPY-APPLICATION-2026-11-24.md) 
 
 ## IKAI within GRACE · GRIT · GLORY
 
-IKAI is the reflective research dimension in DON FELOH's wider practice. A working name note associates IKAI with a Turkana female name meaning **“home”; this attribution remains unverified pending linguistic and community consultation.** Its guiding principle remains: **a mirror, not a judge.**
+IKAI is the reflective research dimension in DON FELOH's wider practice. IKAI is a Turkana female name meaning **“home”**; this is the founder-provided naming context, not a claim of independent linguistic certification. Its guiding principle remains: **a mirror, not a judge.**
 
 - **GRACE → NAKEBUSEN:** beauty, heritage, craft and dignity; the human and commercial grounding.
 - **GRIT → WARENA:** technical capability, free technology and infrastructure.
-- **GLORY → DON FELOH:** human authorship, creative agency and becoming.
+- **GLORY → GENJE / GENJENESS:** creative greatness through culture, sound, movement and authored expression.
 - **GENJE:** embodied sound, movement, livecoding and cultural practice.
 - **IKAI:** reflection, existence, memory, knowledge and reflective-computing research.
 
@@ -103,3 +103,13 @@ See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md)
 ## Research addition · 2026-11-24
 
 See [M1 Optical and Display Bench Addendum](docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) for the source-grounded research and proposed validation protocol. This document is research, not an implementation or compliance claim.
+
+
+## Shared identity alignment · 26 November 2026
+
+IKAI is the **MIRROR / reflective-computing research** domain. In the current pillar mapping, GRACE → NAKEBUSEN, GRIT → WARENA and GLORY → GENJE / GENJENESS; FELOH remains the human author. IKAI is a Turkana female name meaning **“home”**; this is the founder-provided naming context. Guiding principle: **a mirror, not a judge.** See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md).
+
+
+## Documentation index
+
+See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
