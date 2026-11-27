@@ -11,6 +11,10 @@ IKAI investigates reflective computing: the integration of reflective optics, se
 
 ## Start here
 
+## Consciousness and embodied-experience research boundary — 2026-11-27
+
+The shared [FELOH Corpus 50-claim evidence review](https://github.com/donfelohke/feloh-corpus/blob/main/docs/KENYA-50-CLAIMS-EVIDENCE-REVIEW-2026-11-27.md) records broader Kenyan historical, physiological, metaphysical and institutional propositions. IKAI's bounded contribution concerns researchable questions about perception, attention, memory, interoception and embodied cognition. Spiritual and metaphysical propositions remain attributed interpretations, not established physical mechanisms or IKAI engineering requirements.
+
 - [Knowledge base](wiki/) — cross-linked concepts and technical articles.
 - [Reflective computing overview](wiki/architecture/overview.md).
 - [Engineering research](wiki/engineering/).
