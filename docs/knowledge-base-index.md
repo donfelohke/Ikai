@@ -88,3 +88,7 @@ See [IKAI reflective systems update](ECOSYSTEM-UPDATE-2026-11-22.md) for the REF
 ## Local-first cooperative infrastructure — 2026-11-23
 
 - [IKAI — Local-First Cooperative Infrastructure Implications](research/IKAI-LOCAL-FIRST-COOPERATIVE-INFRASTRUCTURE-IMPLICATIONS-2026-11-23.md) — participant control, offline continuity, cooperative trust boundaries, networked data flows and threat-model requirements. Research only.
+
+## Cooperative and federated computing — 2026-11-27
+
+- [Cross-domain cooperative/federated computing synthesis](https://github.com/donfelohke/feloh-corpus/blob/main/docs/research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — shared architecture and project boundaries. For IKAI-specific implications, retain [Local-first cooperative infrastructure implications](research/IKAI-LOCAL-FIRST-COOPERATIVE-INFRASTRUCTURE-IMPLICATIONS-2026-11-23.md) as the detailed research record.
