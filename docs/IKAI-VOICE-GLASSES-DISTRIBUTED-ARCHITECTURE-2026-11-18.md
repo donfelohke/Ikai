@@ -96,7 +96,7 @@ JavaScript is prohibited as runtime, application language, framework or architec
 - PipeWire: https://gitlab.freedesktop.org/pipewire/pipewire
 - GStreamer: https://gitlab.freedesktop.org/gstreamer/gstreamer
 - OpenXR SDK: https://github.com/KhronosGroup/OpenXR-SDK
-- OpenXR headers: https://github.com/KhronosGroup/OpenXR-Headers
+- OpenXR headers and loader: https://github.com/KhronosGroup/OpenXR-SDK (generated SDK headers and loader); authoritative API specification and header sources: https://github.com/KhronosGroup/OpenXR-Docs; registry: https://registry.khronos.org/OpenXR/
 - SQLite: https://github.com/sqlite/sqlite
 - GNUstep: https://github.com/gnustep
 
