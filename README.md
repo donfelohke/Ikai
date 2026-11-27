@@ -1,115 +1,58 @@
-# IKAI — Reflective Compute
+# IKAI — MIRROR / Reflective Computing
 
-**Name:** IKAI is a Turkana female name meaning “home”. This is the founder-provided naming context for the project; linguistic documentation, language variety and community usage remain appropriate subjects for careful research.  
 **Guiding principle:** a mirror, not a judge.  
-**Status:** **RESEARCH / WORK IN PROGRESS** — not a released product.  
+**Status:** RESEARCH / WORK IN PROGRESS — not a released product.  
 **Human author:** Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke)
 
-IKAI investigates reflective computing: the integration of reflective optics, sensing, displays, local computation and human-directed interaction in physical environments. The mirror is the first experimental embodiment, not the limit of the research.
+IKAI investigates reflective computing: how reflective optics, displays, sensing, local computation and human-directed interaction can work together in physical environments. The mirror is an initial research embodiment, not the limit or definition of the project.
 
-> **Portal status:** Static Jekyll portal source and build workflow exist, but GitHub Pages is not enabled. Use the repository knowledge base and engineering research index while publication remains pending.
+The name IKAI is recorded here using the founder-provided Turkana naming context: a female name meaning “home”. This is an attributed naming note, not a claim that the repository has completed independent linguistic or community validation.
 
 ## Start here
 
-- [Knowledge base](wiki/) — cross-linked concepts and technical articles.
-- [Reflective computing overview](wiki/architecture/overview.md).
-- [Engineering research](wiki/engineering/).
-- [REFLECTION± — Light In, Light Out, Compute](wiki/engineering/optical-compute.md).
-- [NAKEBUSEN Beauty Tech research context](wiki/applications/beauty-tech.md).
-- [GENJE embodied computing](wiki/applications/genje.md).
-- [Research method](wiki/research/).
-- [Privacy and participant authority](wiki/governance/privacy.md).
-- [Sources and evidence](wiki/sources/).
+- [Knowledge base](wiki/) — concepts, architecture, engineering, governance and source routing.
+- [Reflective-computing overview](wiki/architecture/overview.md).
+- [Research protocol](docs/RESEARCH-PROTOCOL.md) · [Research agenda](docs/research-agenda.md).
+- [Research evidence and release criteria](docs/research-evidence-and-release-criteria.md).
+- [Privacy and participant authority](docs/privacy-model.md).
+- [Documentation index](docs/README.md).
 
-## Research source of record
+## Current engineering focus
 
-- [M1 Optical and Display Bench Addendum (2026-11-24)](docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) — proposed optical and display validation protocol; not a tested integrated system.
-- [REFLECTION± — Light In, Light Out, Compute (2026-11-21)](docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md).
-- [IKAI Reflective Computing Master Dossier (2026-11-21)](docs/IKAI-REFLECTIVE-COMPUTING-MASTER-DOSSIER-2026-11-21.md).
-- [Mirror Technology & Scholarly Research (2026-11-18)](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md).
-- [M1 Engineering Validation Specification (2026-11-18)](docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md).
-- [Real-Time Bidirectional I/O and Mirror Systems (2026-11-22)](docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md).
-- [Knowledge-base index](docs/knowledge-base-index.md).
+- [M1 optical and display bench addendum](docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) — proposed optical, display and bench validation protocol.
+- [M1 mirror engineering validation](docs/IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md) — engineering requirements and validation framing.
+- [Mirror technology and scholarly research](docs/IKAI-MIRROR-TECHNOLOGY-AND-SCHOLARLY-RESEARCH-2026-11-18.md) — comparison of reflective-display approaches and relevant literature.
+- [Real-time bidirectional I/O and mirror systems](docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) — camera, display, sensing and feedback-loop research.
+- [REFLECTION± — Light In, Light Out, Compute](docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) — optical-compute research proposition.
 
-## Research proposition
+These records describe research and proposed tests. They do not establish a completed optical assembly, calibrated sensing pipeline, integrated prototype, validated tracking accuracy or deployed system.
 
-IKAI studies how optical input, computation, display output and human feedback can form a coherent, measurable and participant-governed environment. Research distinguishes acquisition, sensing, computation, rendering, timing, calibration and validation rather than treating a mirror as a single undifferentiated device.
+## Research boundaries
 
-The M1 mirror is an engineering candidate. A proposed configuration or research specification is not an integrated system, tested prototype or released product.
+1. **Participant authority:** consent, purpose limitation, access and deletion are explicit design requirements.
+2. **Privacy by design:** prefer local processing and bounded capture; no covert recording or default continuous surveillance.
+3. **No judgement system:** do not rank beauty, score people, identify faces, diagnose conditions or infer sensitive traits.
+4. **Evidence before claims:** report optical, display, sensing and interaction measurements with methods, calibration, uncertainty and limitations.
+5. **Native and libre infrastructure:** follow WARENA's native-first, libre-first, local-first and human-controlled technology policy.
+6. **No JavaScript or web-app runtime:** static research publication is separate from system architecture.
+7. **Do not recreate wheels:** evaluate established optics, standards, hardware, software and scholarship before proposing new components; credit upstream work.
 
-## Non-negotiable boundaries
+## Related practices
 
-- No face identification, biometric identity matching, person scoring or ranking.
-- No diagnosis, clinical claims, covert recording or hidden profiling.
-- No default cloud profile or undisclosed external data transfer.
-- Minimise data; prefer local processing; make capture, retention, export and deletion visible and testable.
-- Participant authority and consent govern any capture or sensing.
-- Distinguish literature review, hypothesis, concept, prototype, validation and release.
-- Do not claim a capability or result without evidence.
+- [WARENA](https://github.com/donfelohke/WARENA) — GRIT / CAPABILITY: infrastructure and systems engineering.
+- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — GRACE / ROOT: beauty, loc care and sole transaction interface.
+- [GENJE](https://github.com/donfelohke/Genje) — GLORY / EXPRESSION: sound, movement and embodied creative practice.
+- [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared identity, evidence, governance and provenance.
 
-## Technology and publication
+IKAI is a research practice, not a separate commercial offer or checkout. **ONLY NAKEBUSEN TRANSACTS.**
 
-WARENA provides technical capability; IKAI owns its reflective-computing research and participant-facing design. The shared policy is native-first, libre-first, local-first and inspectable. JavaScript and web technologies are not approved as IKAI application/runtime architecture.
+## Publication status
 
-The static documentation portal is a publication surface, not the application runtime. Its source and workflow do not mean GitHub Pages is enabled or the portal is live.
+The repository contains static portal source and research documentation. GitHub Pages is not enabled; do not describe the portal as a live deployed site. Build success, where recorded, is not evidence of optical or integrated-system validation.
 
-## Ecosystem
-
-| Identity | Relationship |
-|---|---|
-| [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) | Authorship, terminology, evidence and governance |
-| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Human, cultural and commercial foundation; sole transaction interface |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems engineering and infrastructure capability |
-| [GENJE](https://github.com/donfelohke/Genje) | Embodied creative and cultural practice |
-
-**NAKEBUSEN + WARENA → IKAI** describes the relationship between a grounded application context and technical capability. GENJE remains an independent creative domain. IKAI is not a NAKEBUSEN product or booking feature.
-
-Read [AGENTS.md](AGENTS.md), [GOVERNANCE.md](GOVERNANCE.md), [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md) before contributing.
+See [GOVERNANCE.md](GOVERNANCE.md), [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md) and [research release criteria](docs/research-evidence-and-release-criteria.md).
 
 ---
 
-**IKAI · MIRROR · A HOME FOR REFLECTIVE COMPUTING**
-
-## Copy application — 2026-11-24
-
-See [IKAI Reflective Computing Copy Guide](docs/COPY-APPLICATION-2026-11-24.md) for research-safe public language, participant safeguards, visual restrictions and maturity wording.
-
-## IKAI within GRACE · GRIT · GLORY
-
-IKAI is the reflective research dimension in DON FELOH's wider practice. IKAI is a Turkana female name meaning **“home”**; this is the founder-provided naming context, not a claim of independent linguistic certification. Its guiding principle remains: **a mirror, not a judge.**
-
-- **GRACE → NAKEBUSEN:** beauty, heritage, craft and dignity; the human and commercial grounding.
-- **GRIT → WARENA:** technical capability, free technology and infrastructure.
-- **GLORY → GENJE / GENJENESS:** creative greatness through culture, sound, movement and authored expression.
-- **GENJE:** embodied sound, movement, livecoding and cultural practice.
-- **IKAI:** reflection, existence, memory, knowledge and reflective-computing research.
-
-**GENJE ZA WARENA | NAKEBUSEN** is the shared identity signature, not an IKAI product or commercial offer. IKAI remains RESEARCH / WORK IN PROGRESS. **ONLY NAKEBUSEN TRANSACTS.**
-
-**FELOH** — Authorship · Intellectual work · Creative direction  
-**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
-**IKAI** — Reflective computing · Perception · Memory · Human experience  
-**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
-**GENJE** — Music · Movement · Performance · Creative expression
-
-Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
-
-
-## Ecosystem alignment · 2026-11-24
-
-See the [cross-project alignment update](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for current shared identity, repository boundaries, evidence/maturity rules and documentation priorities.
-
-
-## Research addition · 2026-11-24
-
-See [M1 Optical and Display Bench Addendum](docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) for the source-grounded research and proposed validation protocol. This document is research, not an implementation or compliance claim.
-
-
-## Shared identity alignment · 26 November 2026
-
-IKAI is the **MIRROR / reflective-computing research** domain. In the current pillar mapping, GRACE → NAKEBUSEN, GRIT → WARENA and GLORY → GENJE / GENJENESS; FELOH remains the human author. IKAI is a Turkana female name meaning **“home”**; this is the founder-provided naming context. Guiding principle: **a mirror, not a judge.** See the [current shared identity clarification](https://github.com/donfelohke/feloh-corpus/blob/main/docs/IDENTITY-CANONICAL-CLARIFICATION-2026-11-26.md).
-
-
-## Documentation index
-
-See [docs/README.md](docs/README.md) for the current repository documentation map and source-of-record links.
+**IKAI · MIRROR**  
+**A mirror, not a judge.**
