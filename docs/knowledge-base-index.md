@@ -61,6 +61,12 @@ For every experiment, record the question, status/date, source commit, hardware/
 
 ## Non-negotiable boundaries
 
+## Consciousness, perception and embodied experience — 2026-11-27
+
+- Shared source of record: [FELOH Corpus — Kenya, Sacred Geography, Historical Claims and Consciousness: 50-Claim Evidence Review](https://github.com/donfelohke/feloh-corpus/blob/main/docs/KENYA-50-CLAIMS-EVIDENCE-REVIEW-2026-11-27.md).
+- IKAI research boundary: investigate perception, attention, memory, interoception, embodied cognition and human-directed reflection through appropriate scholarship and participant-governed methods. Do not treat ether, universal consciousness, spiritual frequencies, loosh or reincarnation claims as established physical mechanisms or software requirements.
+- Keep empirical findings, participant testimony, cultural knowledge, philosophical interpretation and theological belief distinct. IKAI does not diagnose, infer hidden mental states, rank people or claim to measure consciousness.
+
 - No face identification, biometric identity matching, covert surveillance, diagnosis, person scoring or hidden profiling.
 - Do not infer health, emotion, personality, identity or capability from movement or sensor data.
 - External processing requires an explicit purpose and reviewed data-flow, retention and access model.
