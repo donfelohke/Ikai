@@ -56,3 +56,7 @@ See [GOVERNANCE.md](GOVERNANCE.md), [CONTRIBUTING.md](CONTRIBUTING.md), [SECURIT
 
 **IKAI · MIRROR**  
 **A mirror, not a judge.**
+
+## Canonical alignment · 27 November 2026
+
+See [Canonical identity alignment](docs/FELOH-CANONICAL-ALIGNMENT-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
