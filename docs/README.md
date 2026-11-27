@@ -14,7 +14,8 @@ IKAI is reflective-computing research and work in progress. This index routes re
 - [M1 engineering validation](IKAI-MIRROR-M1-ENGINEERING-VALIDATION-2026-11-18.md).
 - [M1 optical and display bench addendum](IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md).
 - [Reflection± — Light In, Light Out, Compute](REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md).
-- [Real-time bidirectional I/O and mirror systems](IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md).
+- [Real-time bidirectional I/O and mirror systems](IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) — updated with current V4L2, DMA-BUF, DRM/KMS, PipeWire and OpenXR interface contracts.
+- [WARENA — Real-time bidirectional I/O standards update](https://github.com/donfelohke/WARENA/blob/main/docs/research/REALTIME-BIDIRECTIONAL-IO-REFERENCE-UPDATE-2026-11-27.md) — shared Linux media-system integration and validation reference.
 
 ## Governance and privacy
 - [Privacy model](privacy-model.md).
