@@ -10,7 +10,7 @@
 
 IKAI remains an independent reflective-compute research project. It is not a NAKEBUSEN product for sale, a WARENA product, or a GENJE campaign feature.
 
-The current portfolio proposition is **NAKEBUSEN — Beautiful Roots. Sovereign Systems.** with the supporting line **Craft, technology and culture rooted in African ingenuity.** GENJE ZA WARENA — The Fire of the Formidable — is the cultural and creative identity. WARENA remains the systems-engineering identity powering NAKEBUSEN DIGITAL.
+This paragraph records the portfolio language used at the time and is retained as historical context. The current authored interpretations are GENJE = **GREATNESS** and WARENA = **THE POWERFUL**; they are distinct brand interpretations, not a literal translation of GENJE ZA WARENA. The current public relationship is **NAKEBUSEN · WARENA POWERED**, with NAKEBUSEN as the primary enterprise and WARENA providing technical capability.
 
 IKAI's purpose remains to explore local, human-directed reflection through interfaces, movement and creative computation. Its design must support perception, deliberation and choice while making system behaviour inspectable.
 
