@@ -23,6 +23,10 @@ IKAI is reflective-computing research and work in progress. This index routes re
 - [Stewardship](STEWARDSHIP.md).
 
 ## Ecosystem
+
+## Consciousness, perception and embodied experience
+
+- [Kenya 50-claim evidence review (FELOH Corpus, 2026-11-27)](https://github.com/donfelohke/feloh-corpus/blob/main/docs/KENYA-50-CLAIMS-EVIDENCE-REVIEW-2026-11-27.md) — shared claim register covering consciousness, physiology, metaphysics and Kenyan knowledge contexts. IKAI's contribution is limited to researchable questions about perception, cognition, interoception and embodied experience; metaphysical propositions are not IKAI engineering requirements.
 - [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared canon, governance, evidence and provenance.
 - [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — ROOT enterprise and sole transaction interface.
 - [WARENA](https://github.com/donfelohke/WARENA) — CAPABILITY infrastructure.
