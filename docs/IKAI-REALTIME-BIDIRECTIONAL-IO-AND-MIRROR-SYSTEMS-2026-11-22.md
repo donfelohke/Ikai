@@ -69,7 +69,48 @@ No benchmark values are asserted until an experiment is actually run.
 
 Survey and qualify existing native interfaces before inventing a new stack. Candidate areas include Linux V4L2 capture, DRM/KMS display, PipeWire media routing, GStreamer pipelines and OpenXR for spatial interfaces. These are research candidates, not approved dependencies or evidence of compatibility with a chosen mirror assembly. Preserve upstream attribution, licence, version and test results.
 
-## 6. Agency, privacy and safety
+## 6. Interface-contract update — 27 November 2026
+
+The WARENA cross-project standards review now provides a more precise Linux integration map: [Real-Time Bidirectional I/O — Standards and Interface Update](https://github.com/donfelohke/WARENA/blob/main/docs/research/REALTIME-BIDIRECTIONAL-IO-REFERENCE-UPDATE-2026-11-27.md).
+
+For IKAI, retain the following distinctions:
+
+- **V4L2** owns camera/video-device capture and streaming queue semantics. Record supported formats, multi-planar layout, timestamp source and capture controls.
+- **DMA-BUF** can share supported buffer allocations between devices/subsystems. It does not guarantee zero-copy, zero-latency or universal import. Record exporter/importer roles, per-plane metadata, modifier compatibility, fences and safe buffer-release conditions.
+- **DRM/KMS** owns display-side framebuffer/plane configuration and presentation constraints. Check the target display pipeline's accepted formats and modifiers rather than assuming a camera buffer is directly displayable.
+- **PipeWire** can coordinate a media graph and its scheduling where graph routing or multi-client media flow is required. It is not a replacement for the underlying camera, buffer-sharing or display interfaces.
+- **OpenXR** is a native XR API candidate only when an appropriate runtime/device exists. The standard does not provide the runtime, and OpenXR is not WebXR.
+
+The system must preserve two coupled but separately observable planes:
+
+1. **Media/data plane:** capture → buffer handoff → local processing → display presentation → buffer completion/release.
+2. **Control/feedback plane:** participant input and consent → camera/sensor controls → processing state → display response → acknowledgement and safe stop.
+
+For every edge, specify format, dimensions, plane layout, ownership, timestamp origin, clock domain, synchronization, queue/backpressure policy, completion and failure behavior. The fact that two components exchange a file descriptor or negotiate a media format does not establish that the entire path is valid.
+
+### M1 validation additions
+
+- Measure capture-to-display latency end-to-end and by stage; report p50, p95, p99, maximum, jitter, sample count and uncertainty.
+- Record camera timestamps and the clock domain used; do not treat timestamps from different devices as directly comparable without mapping.
+- Test DMA-BUF import failure, unsupported modifiers, buffer starvation, stalled synchronization and device disconnect.
+- Verify that capture and processing stop when the participant revokes permission or the session ends.
+- Record every copy, conversion, reallocation or fallback path. Do not market a path as zero-copy unless the actual device/driver combination and buffer lifecycle prove it.
+- Keep the optical bench, capture subsystem, display subsystem and integrated reflective environment as separate maturity gates.
+
+This is an architecture and validation update. It does not claim that the M1 optical assembly, camera/display path or integrated mirror system has been built or benchmarked.
+
+### Primary references
+
+Accessed 27 November 2026:
+
+- Linux Kernel — [V4L2 DMA-BUF importing](https://docs.kernel.org/userspace-api/media/v4l/dmabuf.html).
+- Linux Kernel — [DMA-BUF buffer sharing and synchronization](https://docs.kernel.org/driver-api/dma-buf.html).
+- Linux Kernel — [V4L2 buffer metadata and timestamps](https://docs.kernel.org/userspace-api/media/v4l/buffer.html).
+- Linux Kernel — [DRM/KMS](https://docs.kernel.org/gpu/drm-kms.html).
+- PipeWire — [Graph scheduling](https://docs.pipewire.org/page_scheduling.html).
+- Khronos — [OpenXR Registry](https://registry.khronos.org/OpenXR/).
+
+## 7. Agency, privacy and safety
 
 - Capture is off by default unless a narrowly scoped, explicit experiment authorises it.
 - Presence is not identity, consent or permission.
@@ -78,11 +119,11 @@ Survey and qualify existing native interfaces before inventing a new stack. Cand
 - Make capture, retention, export, deletion, physical disable and human override testable.
 - Separate observation, inference, proposal, authorisation, execution, verification and record.
 
-## 7. Maturity gates
+## 8. Maturity gates
 
 Literature review → hypothesis → optical bench test → subsystem prototype → integrated prototype → independent validation → release are separate gates. A diagram, source repository, paper design or document is not a prototype. Negative results and unknowns are first-class records.
 
-## 8. Ownership
+## 9. Ownership
 
 IKAI owns the reflective environment, optical research and participant-facing interaction. WARENA owns enabling compute, device interfaces, timing, local infrastructure and reproducible system validation. GENJE owns authored movement and creative interpretation. FELOH Corpus owns shared canon and evidence standards. NAKEBUSEN remains the only commercial transaction interface.
 
