@@ -302,7 +302,7 @@ Glass Terminal is a cross-project interface research direction, not a new IKAI p
 The Glass Terminal visual language may inform a future IKAI interface through restrained translucency, clear hierarchy, reflective surfaces and contextual information. Browser CSS blur is not a physical mirror, optical validation or an IKAI implementation. Native rendering and physical optical behavior require separate engineering evaluation.
 
 The public Glass Terminal page is a static research presentation, not an IKAI runtime or commercial feature:
-https://donfelohke.github.io/research/glass-terminal/
+https://github.com/donfelohke/donfelohke.github.io/blob/main/docs/NAKEBUSEN-EDITORIAL-ROOTED-GLASS-TERMINAL-DESIGN.md
 
 ### Research status
 
