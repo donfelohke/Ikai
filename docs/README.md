@@ -30,3 +30,7 @@ IKAI is reflective-computing research and work in progress. This index routes re
 - [GENJE](https://github.com/donfelohke/Genje) — EXPRESSION and embodied creative practice.
 
 IKAI is a Turkana female name meaning “home”; this is the founder-provided naming context. Guiding principle: **a mirror, not a judge.** No identification, ranking, diagnosis, covert monitoring or hidden profiling. **ONLY NAKEBUSEN TRANSACTS.**
+
+## Cooperative, federated and embodied systems — 2026-11-27
+
+- [Cross-domain synthesis in FELOH Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/research/COOPERATIVE-FEDERATED-COMPUTING-AND-EMBODIED-INTERACTION-SYNTHESIS-2026-11-27.md) — IKAI's boundary within local-first cooperative infrastructure, spatial interaction, reflective interfaces and participant authority. IKAI's mirror, optical and privacy records remain the specialist sources of record.
